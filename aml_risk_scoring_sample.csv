@@ -1,0 +1,1001 @@
+CustomerID,CustomerType,Geography,ProductService,DeliveryChannel,CustScore,GeoScore,ProdScore,ChanScore,WeightedRiskScore,RiskCategory
+C0001,High Net Worth,India,Prepaid Cards,Online,3,1,1,1,1.4,Low
+C0002,Small Business,Nigeria,Trade Finance,Relationship Manager,1,2,3,3,2.2,Medium
+C0003,Shell Company,Germany,Securities Trading,Mobile App,2,1,1,3,1.4,Low
+C0004,Small Business,Singapore,Payroll Services,Mobile App,1,3,2,1,2.1,Medium
+C0005,PEP,UAE,Remittances,Mobile App,3,3,1,1,2.2,Medium
+C0006,Shell Company,Singapore,Cash Deposits,Online,2,2,3,2,2.3,Medium
+C0007,Small Business,Singapore,Cash Deposits,Branch Onboarding,3,2,3,3,2.6,High
+C0008,Corporate,India,Securities Trading,Broker-Dealer,2,2,1,3,1.8,Medium
+C0009,High Net Worth,UAE,Wire Transfers,Mobile App,2,1,2,3,1.7,Medium
+C0010,Retail Individual,India,Private Banking,Mobile App,1,2,2,3,1.9,Medium
+C0011,NGO,Nigeria,Private Banking,Broker-Dealer,1,3,1,3,2,Medium
+C0012,Shell Company,USA,Securities Trading,Mobile App,3,3,1,3,2.4,Medium
+C0013,NGO,Germany,Checking Account,Branch Onboarding,2,1,3,1,1.8,Medium
+C0014,NGO,Singapore,Private Banking,Broker-Dealer,3,3,1,2,2.3,Medium
+C0015,Corporate,UK,Private Banking,Relationship Manager,1,1,2,2,1.4,Low
+C0016,Corporate,Panama,Prepaid Cards,Branch Onboarding,3,2,3,3,2.6,High
+C0017,Corporate,Germany,Payroll Services,Online,1,3,2,3,2.3,Medium
+C0018,Small Business,Nigeria,Wire Transfers,Relationship Manager,2,3,3,2,2.7,High
+C0019,Small Business,India,Wire Transfers,Mobile App,3,1,3,1,2,Medium
+C0020,Small Business,India,Cash Deposits,Relationship Manager,3,3,3,2,2.9,High
+C0021,Small Business,USA,Crypto Exchange,Relationship Manager,3,1,3,1,2,Medium
+C0022,Corporate,Nigeria,Payroll Services,Broker-Dealer,2,3,3,2,2.7,High
+C0023,Retail Individual,UAE,Cash Deposits,Mobile App,1,1,1,3,1.2,Low
+C0024,PEP,Singapore,Prepaid Cards,Branch Onboarding,3,1,1,2,1.5,Low
+C0025,Small Business,Panama,Payroll Services,Mobile App,3,2,2,2,2.2,Medium
+C0026,Shell Company,UAE,Checking Account,Online,1,1,2,2,1.4,Low
+C0027,Small Business,India,Crypto Exchange,Mobile App,1,2,2,3,1.9,Medium
+C0028,NGO,Panama,Trade Finance,Relationship Manager,1,3,2,2,2.2,Medium
+C0029,Corporate,Afghanistan,Wire Transfers,Mobile App,1,3,2,2,2.2,Medium
+C0030,High Net Worth,Singapore,Crypto Exchange,Online,1,2,1,2,1.5,Low
+C0031,High Net Worth,Panama,Private Banking,Relationship Manager,2,2,2,3,2.1,Medium
+C0032,Corporate,Nigeria,Payroll Services,Relationship Manager,3,1,2,3,1.9,Medium
+C0033,Retail Individual,Panama,Wire Transfers,Broker-Dealer,2,2,1,2,1.7,Medium
+C0034,NGO,Panama,Prepaid Cards,Mobile App,2,3,2,3,2.5,Medium
+C0035,PEP,Germany,Securities Trading,Broker-Dealer,3,2,2,3,2.3,Medium
+C0036,High Net Worth,Afghanistan,Remittances,Relationship Manager,2,3,2,2,2.4,Medium
+C0037,Small Business,USA,Prepaid Cards,Branch Onboarding,2,2,2,3,2.1,Medium
+C0038,Shell Company,UK,Checking Account,Mobile App,1,3,1,1,1.8,Medium
+C0039,PEP,UK,Cash Deposits,Relationship Manager,1,3,1,1,1.8,Medium
+C0040,NGO,Singapore,Wire Transfers,Broker-Dealer,1,3,3,3,2.6,High
+C0041,Corporate,Singapore,Crypto Exchange,Broker-Dealer,3,3,3,1,2.8,High
+C0042,Retail Individual,UAE,Wire Transfers,Online,1,2,2,1,1.7,Medium
+C0043,High Net Worth,UAE,Payroll Services,Online,1,1,3,1,1.6,Medium
+C0044,Small Business,India,Checking Account,Mobile App,2,3,2,3,2.5,Medium
+C0045,Corporate,UK,Crypto Exchange,Branch Onboarding,3,1,3,3,2.2,Medium
+C0046,Retail Individual,UAE,Wire Transfers,Broker-Dealer,3,2,1,2,1.9,Medium
+C0047,Shell Company,India,Checking Account,Relationship Manager,3,1,2,2,1.8,Medium
+C0048,Corporate,UAE,Trade Finance,Branch Onboarding,1,3,2,1,2.1,Medium
+C0049,Shell Company,UK,Checking Account,Relationship Manager,3,3,2,2,2.6,High
+C0050,High Net Worth,Singapore,Remittances,Relationship Manager,2,1,2,1,1.5,Low
+C0051,Small Business,UK,Trade Finance,Online,3,1,1,1,1.4,Low
+C0052,NGO,Singapore,Crypto Exchange,Online,1,2,1,2,1.5,Low
+C0053,High Net Worth,Panama,Checking Account,Relationship Manager,2,2,3,1,2.2,Medium
+C0054,Retail Individual,Panama,Crypto Exchange,Relationship Manager,1,3,2,2,2.2,Medium
+C0055,Corporate,Afghanistan,Private Banking,Broker-Dealer,3,3,1,2,2.3,Medium
+C0056,Retail Individual,UAE,Trade Finance,Branch Onboarding,3,2,2,2,2.2,Medium
+C0057,Small Business,Panama,Private Banking,Mobile App,3,1,1,1,1.4,Low
+C0058,Small Business,UAE,Prepaid Cards,Branch Onboarding,1,2,1,1,1.4,Low
+C0059,PEP,USA,Private Banking,Relationship Manager,2,2,2,2,2,Medium
+C0060,NGO,UK,Payroll Services,Online,2,2,2,3,2.1,Medium
+C0061,Small Business,Nigeria,Cash Deposits,Broker-Dealer,2,3,2,2,2.4,Medium
+C0062,Small Business,UAE,Trade Finance,Relationship Manager,3,1,3,3,2.2,Medium
+C0063,Shell Company,Singapore,Checking Account,Mobile App,2,3,3,3,2.8,High
+C0064,PEP,Singapore,Securities Trading,Mobile App,3,2,2,2,2.2,Medium
+C0065,Shell Company,India,Payroll Services,Broker-Dealer,3,2,2,2,2.2,Medium
+C0066,High Net Worth,USA,Cash Deposits,Branch Onboarding,2,3,2,3,2.5,Medium
+C0067,NGO,Afghanistan,Trade Finance,Relationship Manager,2,2,2,3,2.1,Medium
+C0068,PEP,India,Private Banking,Broker-Dealer,1,2,3,2,2.1,Medium
+C0069,PEP,India,Crypto Exchange,Online,3,2,3,1,2.4,Medium
+C0070,Corporate,Singapore,Checking Account,Branch Onboarding,2,2,1,3,1.8,Medium
+C0071,Shell Company,Nigeria,Private Banking,Relationship Manager,2,1,1,2,1.3,Low
+C0072,PEP,UK,Remittances,Relationship Manager,1,2,3,1,2,Medium
+C0073,Shell Company,Panama,Trade Finance,Relationship Manager,1,1,3,1,1.6,Medium
+C0074,NGO,Afghanistan,Private Banking,Mobile App,1,1,3,3,1.8,Medium
+C0075,Small Business,India,Securities Trading,Relationship Manager,3,2,2,1,2.1,Medium
+C0076,Shell Company,Panama,Prepaid Cards,Mobile App,2,3,3,1,2.6,High
+C0077,Corporate,India,Crypto Exchange,Broker-Dealer,3,3,1,2,2.3,Medium
+C0078,Small Business,UAE,Checking Account,Relationship Manager,1,1,1,2,1.1,Low
+C0079,Small Business,UK,Trade Finance,Online,3,1,3,1,2,Medium
+C0080,Small Business,Panama,Securities Trading,Mobile App,3,2,2,2,2.2,Medium
+C0081,Shell Company,Germany,Crypto Exchange,Broker-Dealer,2,2,2,3,2.1,Medium
+C0082,NGO,UAE,Crypto Exchange,Mobile App,3,1,2,1,1.7,Medium
+C0083,PEP,Nigeria,Cash Deposits,Relationship Manager,1,2,3,2,2.1,Medium
+C0084,High Net Worth,Afghanistan,Payroll Services,Relationship Manager,2,2,2,2,2,Medium
+C0085,Shell Company,UK,Private Banking,Online,2,2,3,1,2.2,Medium
+C0086,NGO,Panama,Wire Transfers,Online,1,2,3,2,2.1,Medium
+C0087,NGO,UK,Crypto Exchange,Online,3,1,2,1,1.7,Medium
+C0088,NGO,UK,Wire Transfers,Relationship Manager,1,1,1,2,1.1,Low
+C0089,Shell Company,India,Wire Transfers,Broker-Dealer,2,2,1,2,1.7,Medium
+C0090,Small Business,Singapore,Wire Transfers,Broker-Dealer,3,1,3,1,2,Medium
+C0091,NGO,USA,Cash Deposits,Mobile App,1,1,3,2,1.7,Medium
+C0092,High Net Worth,Germany,Cash Deposits,Broker-Dealer,3,3,1,2,2.3,Medium
+C0093,High Net Worth,Singapore,Cash Deposits,Online,2,3,1,1,2,Medium
+C0094,High Net Worth,USA,Remittances,Branch Onboarding,1,2,2,2,1.8,Medium
+C0095,Corporate,Panama,Crypto Exchange,Branch Onboarding,1,3,1,2,1.9,Medium
+C0096,NGO,Afghanistan,Remittances,Branch Onboarding,1,2,2,1,1.7,Medium
+C0097,Corporate,UK,Private Banking,Mobile App,3,2,2,1,2.1,Medium
+C0098,Corporate,Afghanistan,Remittances,Online,2,3,3,1,2.6,High
+C0099,High Net Worth,Panama,Remittances,Broker-Dealer,1,1,2,1,1.3,Low
+C0100,Small Business,UK,Crypto Exchange,Mobile App,1,2,2,1,1.7,Medium
+C0101,PEP,Afghanistan,Remittances,Broker-Dealer,1,3,2,1,2.1,Medium
+C0102,Corporate,India,Trade Finance,Mobile App,1,1,1,2,1.1,Low
+C0103,High Net Worth,Singapore,Payroll Services,Broker-Dealer,3,1,1,2,1.5,Low
+C0104,Corporate,UK,Trade Finance,Mobile App,1,2,1,3,1.6,Medium
+C0105,Small Business,UAE,Checking Account,Relationship Manager,2,2,2,2,2,Medium
+C0106,NGO,Panama,Wire Transfers,Broker-Dealer,2,2,1,1,1.6,Medium
+C0107,NGO,USA,Payroll Services,Branch Onboarding,1,2,1,1,1.4,Low
+C0108,PEP,India,Remittances,Mobile App,3,2,3,3,2.6,High
+C0109,High Net Worth,USA,Prepaid Cards,Online,3,2,2,2,2.2,Medium
+C0110,PEP,Panama,Crypto Exchange,Relationship Manager,2,1,1,2,1.3,Low
+C0111,Corporate,UAE,Prepaid Cards,Online,1,3,3,3,2.6,High
+C0112,PEP,Nigeria,Wire Transfers,Relationship Manager,1,2,3,3,2.2,Medium
+C0113,PEP,USA,Remittances,Branch Onboarding,1,2,2,3,1.9,Medium
+C0114,PEP,USA,Securities Trading,Branch Onboarding,2,3,3,3,2.8,High
+C0115,PEP,Afghanistan,Wire Transfers,Broker-Dealer,1,1,3,2,1.7,Medium
+C0116,Corporate,Nigeria,Crypto Exchange,Branch Onboarding,3,2,3,3,2.6,High
+C0117,Retail Individual,Afghanistan,Cash Deposits,Online,2,3,2,3,2.5,Medium
+C0118,NGO,USA,Cash Deposits,Online,3,3,2,1,2.5,Medium
+C0119,PEP,Afghanistan,Checking Account,Broker-Dealer,3,3,1,1,2.2,Medium
+C0120,Shell Company,Singapore,Crypto Exchange,Relationship Manager,1,3,2,1,2.1,Medium
+C0121,Corporate,Afghanistan,Private Banking,Branch Onboarding,2,3,1,1,2,Medium
+C0122,Retail Individual,USA,Private Banking,Branch Onboarding,2,3,2,3,2.5,Medium
+C0123,NGO,Panama,Cash Deposits,Broker-Dealer,1,3,1,3,2,Medium
+C0124,NGO,Panama,Trade Finance,Branch Onboarding,2,2,2,3,2.1,Medium
+C0125,High Net Worth,Panama,Trade Finance,Mobile App,2,1,1,2,1.3,Low
+C0126,High Net Worth,Germany,Checking Account,Relationship Manager,3,3,3,1,2.8,High
+C0127,Shell Company,India,Checking Account,Broker-Dealer,1,1,2,3,1.5,Low
+C0128,Shell Company,USA,Private Banking,Broker-Dealer,1,3,1,1,1.8,Medium
+C0129,Retail Individual,Panama,Cash Deposits,Mobile App,3,2,2,1,2.1,Medium
+C0130,PEP,Afghanistan,Securities Trading,Broker-Dealer,3,3,3,1,2.8,High
+C0131,Corporate,UAE,Wire Transfers,Broker-Dealer,3,3,2,3,2.7,High
+C0132,Shell Company,Germany,Crypto Exchange,Relationship Manager,3,2,1,2,1.9,Medium
+C0133,Corporate,Panama,Payroll Services,Relationship Manager,3,3,3,1,2.8,High
+C0134,Retail Individual,USA,Wire Transfers,Branch Onboarding,1,1,2,1,1.3,Low
+C0135,Small Business,Germany,Securities Trading,Relationship Manager,2,2,1,1,1.6,Medium
+C0136,Corporate,Germany,Checking Account,Mobile App,1,3,1,3,2,Medium
+C0137,Shell Company,Afghanistan,Wire Transfers,Online,3,2,3,3,2.6,High
+C0138,PEP,Nigeria,Crypto Exchange,Online,3,1,1,2,1.5,Low
+C0139,NGO,Panama,Cash Deposits,Broker-Dealer,3,1,3,1,2,Medium
+C0140,Small Business,India,Trade Finance,Broker-Dealer,3,3,3,2,2.9,High
+C0141,Retail Individual,USA,Crypto Exchange,Online,1,3,2,2,2.2,Medium
+C0142,High Net Worth,Panama,Remittances,Mobile App,1,1,3,3,1.8,Medium
+C0143,High Net Worth,Nigeria,Remittances,Online,2,1,2,1,1.5,Low
+C0144,Small Business,UK,Checking Account,Relationship Manager,2,2,2,2,2,Medium
+C0145,NGO,Afghanistan,Payroll Services,Online,3,2,2,1,2.1,Medium
+C0146,NGO,Nigeria,Securities Trading,Relationship Manager,3,3,1,3,2.4,Medium
+C0147,High Net Worth,Singapore,Checking Account,Mobile App,1,3,3,2,2.5,Medium
+C0148,Corporate,India,Checking Account,Online,3,3,3,2,2.9,High
+C0149,Retail Individual,Afghanistan,Cash Deposits,Online,2,1,2,1,1.5,Low
+C0150,PEP,Singapore,Crypto Exchange,Broker-Dealer,3,2,2,3,2.3,Medium
+C0151,PEP,USA,Payroll Services,Branch Onboarding,1,2,1,2,1.5,Low
+C0152,High Net Worth,Nigeria,Checking Account,Broker-Dealer,2,1,1,1,1.2,Low
+C0153,Small Business,India,Checking Account,Relationship Manager,3,1,3,2,2.1,Medium
+C0154,Corporate,UK,Crypto Exchange,Relationship Manager,3,1,3,1,2,Medium
+C0155,Shell Company,Singapore,Prepaid Cards,Relationship Manager,3,1,1,2,1.5,Low
+C0156,Corporate,Panama,Remittances,Broker-Dealer,2,2,2,1,1.9,Medium
+C0157,Small Business,Germany,Wire Transfers,Online,2,3,1,3,2.2,Medium
+C0158,NGO,Afghanistan,Securities Trading,Branch Onboarding,2,2,1,2,1.7,Medium
+C0159,Retail Individual,India,Payroll Services,Relationship Manager,2,1,2,1,1.5,Low
+C0160,Corporate,Singapore,Wire Transfers,Broker-Dealer,3,3,1,1,2.2,Medium
+C0161,Retail Individual,UK,Checking Account,Relationship Manager,3,3,2,3,2.7,High
+C0162,High Net Worth,Singapore,Wire Transfers,Relationship Manager,3,1,1,3,1.6,Medium
+C0163,NGO,Singapore,Private Banking,Mobile App,1,3,3,3,2.6,High
+C0164,Small Business,Nigeria,Payroll Services,Mobile App,1,3,3,3,2.6,High
+C0165,Small Business,Panama,Cash Deposits,Broker-Dealer,2,3,1,2,2.1,Medium
+C0166,High Net Worth,Nigeria,Prepaid Cards,Broker-Dealer,1,3,2,1,2.1,Medium
+C0167,Corporate,Panama,Securities Trading,Branch Onboarding,3,1,3,2,2.1,Medium
+C0168,High Net Worth,Germany,Payroll Services,Relationship Manager,2,1,1,3,1.4,Low
+C0169,Small Business,UAE,Payroll Services,Mobile App,1,3,3,2,2.5,Medium
+C0170,High Net Worth,UK,Prepaid Cards,Branch Onboarding,1,2,2,2,1.8,Medium
+C0171,Shell Company,Nigeria,Prepaid Cards,Broker-Dealer,3,2,1,3,2,Medium
+C0172,Corporate,Germany,Securities Trading,Mobile App,3,1,1,1,1.4,Low
+C0173,High Net Worth,Panama,Cash Deposits,Relationship Manager,3,2,1,2,1.9,Medium
+C0174,Retail Individual,Germany,Securities Trading,Mobile App,3,3,2,1,2.5,Medium
+C0175,Corporate,Afghanistan,Payroll Services,Relationship Manager,1,1,3,1,1.6,Medium
+C0176,Corporate,UK,Securities Trading,Online,2,1,3,1,1.8,Medium
+C0177,High Net Worth,Panama,Checking Account,Mobile App,3,3,2,3,2.7,High
+C0178,NGO,UK,Wire Transfers,Mobile App,1,2,3,1,2,Medium
+C0179,Small Business,UK,Checking Account,Relationship Manager,2,2,2,3,2.1,Medium
+C0180,Shell Company,UAE,Trade Finance,Broker-Dealer,1,1,2,1,1.3,Low
+C0181,Shell Company,Singapore,Crypto Exchange,Broker-Dealer,2,3,2,3,2.5,Medium
+C0182,PEP,UK,Crypto Exchange,Branch Onboarding,3,2,3,2,2.5,Medium
+C0183,Shell Company,Germany,Trade Finance,Mobile App,3,1,2,3,1.9,Medium
+C0184,NGO,Nigeria,Wire Transfers,Relationship Manager,3,2,1,2,1.9,Medium
+C0185,Corporate,Singapore,Private Banking,Relationship Manager,3,3,2,2,2.6,High
+C0186,Corporate,UK,Private Banking,Branch Onboarding,3,1,1,2,1.5,Low
+C0187,Corporate,UK,Private Banking,Branch Onboarding,1,2,3,3,2.2,Medium
+C0188,Corporate,India,Checking Account,Relationship Manager,2,3,1,2,2.1,Medium
+C0189,Retail Individual,UAE,Remittances,Mobile App,1,2,2,1,1.7,Medium
+C0190,Corporate,Panama,Crypto Exchange,Branch Onboarding,2,2,3,3,2.4,Medium
+C0191,Retail Individual,India,Trade Finance,Online,1,2,3,2,2.1,Medium
+C0192,High Net Worth,USA,Remittances,Broker-Dealer,1,1,1,2,1.1,Low
+C0193,High Net Worth,India,Trade Finance,Branch Onboarding,3,1,3,1,2,Medium
+C0194,PEP,UK,Prepaid Cards,Online,1,3,3,1,2.4,Medium
+C0195,NGO,Singapore,Cash Deposits,Online,2,1,1,1,1.2,Low
+C0196,Retail Individual,Singapore,Checking Account,Broker-Dealer,1,2,1,1,1.4,Low
+C0197,Shell Company,Panama,Securities Trading,Relationship Manager,3,2,3,2,2.5,Medium
+C0198,High Net Worth,UAE,Checking Account,Broker-Dealer,3,2,2,3,2.3,Medium
+C0199,PEP,Nigeria,Checking Account,Relationship Manager,3,3,3,2,2.9,High
+C0200,High Net Worth,Singapore,Payroll Services,Mobile App,2,3,1,1,2,Medium
+C0201,NGO,Nigeria,Checking Account,Online,3,2,1,1,1.8,Medium
+C0202,PEP,UAE,Cash Deposits,Broker-Dealer,1,3,3,1,2.4,Medium
+C0203,High Net Worth,UK,Payroll Services,Online,2,2,1,2,1.7,Medium
+C0204,Small Business,Singapore,Wire Transfers,Mobile App,2,3,3,3,2.8,High
+C0205,NGO,Panama,Crypto Exchange,Mobile App,3,3,1,3,2.4,Medium
+C0206,PEP,India,Cash Deposits,Branch Onboarding,2,3,1,3,2.2,Medium
+C0207,Retail Individual,Singapore,Trade Finance,Mobile App,3,3,3,2,2.9,High
+C0208,Retail Individual,USA,Private Banking,Online,1,2,1,3,1.6,Medium
+C0209,NGO,UK,Crypto Exchange,Branch Onboarding,1,3,2,3,2.3,Medium
+C0210,PEP,Nigeria,Checking Account,Broker-Dealer,2,3,1,1,2,Medium
+C0211,Corporate,Singapore,Wire Transfers,Online,3,3,2,1,2.5,Medium
+C0212,Small Business,Nigeria,Remittances,Mobile App,3,1,1,1,1.4,Low
+C0213,Corporate,UAE,Trade Finance,Broker-Dealer,1,1,3,2,1.7,Medium
+C0214,Small Business,India,Cash Deposits,Mobile App,3,3,3,1,2.8,High
+C0215,Corporate,UAE,Payroll Services,Mobile App,1,2,2,1,1.7,Medium
+C0216,NGO,Nigeria,Crypto Exchange,Relationship Manager,1,3,3,3,2.6,High
+C0217,Small Business,Nigeria,Private Banking,Mobile App,2,1,3,3,2,Medium
+C0218,High Net Worth,India,Wire Transfers,Branch Onboarding,3,2,2,3,2.3,Medium
+C0219,Corporate,India,Checking Account,Branch Onboarding,2,1,1,1,1.2,Low
+C0220,Shell Company,Singapore,Trade Finance,Online,1,2,1,1,1.4,Low
+C0221,Shell Company,Nigeria,Payroll Services,Broker-Dealer,3,2,1,3,2,Medium
+C0222,Small Business,Singapore,Prepaid Cards,Mobile App,2,1,1,1,1.2,Low
+C0223,Corporate,Nigeria,Securities Trading,Online,1,2,3,1,2,Medium
+C0224,PEP,Afghanistan,Remittances,Online,1,1,1,2,1.1,Low
+C0225,Small Business,Singapore,Wire Transfers,Online,1,2,2,3,1.9,Medium
+C0226,Corporate,Germany,Private Banking,Broker-Dealer,2,3,3,2,2.7,High
+C0227,Small Business,Afghanistan,Payroll Services,Branch Onboarding,1,3,1,1,1.8,Medium
+C0228,Small Business,Nigeria,Wire Transfers,Branch Onboarding,3,1,2,3,1.9,Medium
+C0229,Corporate,India,Prepaid Cards,Online,3,2,3,1,2.4,Medium
+C0230,PEP,India,Wire Transfers,Relationship Manager,3,1,2,2,1.8,Medium
+C0231,Corporate,Singapore,Crypto Exchange,Online,2,3,3,1,2.6,High
+C0232,Small Business,USA,Checking Account,Mobile App,3,1,1,1,1.4,Low
+C0233,Shell Company,USA,Remittances,Online,1,1,2,1,1.3,Low
+C0234,Shell Company,UAE,Private Banking,Online,2,3,3,1,2.6,High
+C0235,Corporate,Panama,Cash Deposits,Broker-Dealer,1,2,2,1,1.7,Medium
+C0236,NGO,Afghanistan,Trade Finance,Relationship Manager,1,3,1,2,1.9,Medium
+C0237,PEP,Nigeria,Prepaid Cards,Branch Onboarding,3,3,2,3,2.7,High
+C0238,PEP,Afghanistan,Checking Account,Mobile App,3,3,1,2,2.3,Medium
+C0239,High Net Worth,Germany,Prepaid Cards,Broker-Dealer,2,1,3,2,1.9,Medium
+C0240,PEP,USA,Remittances,Online,2,1,2,3,1.7,Medium
+C0241,Retail Individual,UK,Private Banking,Relationship Manager,1,3,3,3,2.6,High
+C0242,Retail Individual,Afghanistan,Securities Trading,Mobile App,1,1,1,3,1.2,Low
+C0243,Small Business,Panama,Prepaid Cards,Relationship Manager,2,1,1,3,1.4,Low
+C0244,Retail Individual,Germany,Trade Finance,Online,1,2,3,3,2.2,Medium
+C0245,Small Business,India,Payroll Services,Broker-Dealer,2,3,1,1,2,Medium
+C0246,Retail Individual,UK,Prepaid Cards,Broker-Dealer,1,2,2,2,1.8,Medium
+C0247,Shell Company,Panama,Payroll Services,Broker-Dealer,2,3,1,3,2.2,Medium
+C0248,Shell Company,India,Cash Deposits,Mobile App,3,1,3,3,2.2,Medium
+C0249,Shell Company,Germany,Cash Deposits,Branch Onboarding,3,2,2,1,2.1,Medium
+C0250,Retail Individual,Germany,Trade Finance,Branch Onboarding,3,2,2,3,2.3,Medium
+C0251,Corporate,UAE,Cash Deposits,Relationship Manager,1,2,2,1,1.7,Medium
+C0252,Retail Individual,Germany,Trade Finance,Relationship Manager,1,2,1,2,1.5,Low
+C0253,NGO,Nigeria,Prepaid Cards,Broker-Dealer,3,1,3,3,2.2,Medium
+C0254,High Net Worth,UK,Wire Transfers,Branch Onboarding,2,3,2,2,2.4,Medium
+C0255,NGO,Panama,Payroll Services,Relationship Manager,3,1,1,1,1.4,Low
+C0256,Retail Individual,Afghanistan,Cash Deposits,Relationship Manager,3,1,3,2,2.1,Medium
+C0257,Retail Individual,UAE,Remittances,Branch Onboarding,3,3,1,1,2.2,Medium
+C0258,Small Business,UK,Payroll Services,Mobile App,1,1,2,1,1.3,Low
+C0259,High Net Worth,Afghanistan,Prepaid Cards,Online,2,1,3,1,1.8,Medium
+C0260,Shell Company,Singapore,Wire Transfers,Branch Onboarding,2,2,3,1,2.2,Medium
+C0261,NGO,Nigeria,Securities Trading,Relationship Manager,2,3,1,2,2.1,Medium
+C0262,Corporate,Germany,Securities Trading,Branch Onboarding,1,2,2,2,1.8,Medium
+C0263,Shell Company,Panama,Prepaid Cards,Broker-Dealer,3,1,2,3,1.9,Medium
+C0264,PEP,USA,Trade Finance,Online,1,1,1,3,1.2,Low
+C0265,Small Business,Nigeria,Securities Trading,Broker-Dealer,2,2,2,1,1.9,Medium
+C0266,NGO,India,Crypto Exchange,Mobile App,3,1,1,2,1.5,Low
+C0267,Corporate,UAE,Securities Trading,Relationship Manager,1,2,2,2,1.8,Medium
+C0268,NGO,UK,Wire Transfers,Branch Onboarding,1,1,1,2,1.1,Low
+C0269,High Net Worth,Singapore,Payroll Services,Branch Onboarding,3,2,2,2,2.2,Medium
+C0270,Retail Individual,Afghanistan,Wire Transfers,Branch Onboarding,3,2,3,3,2.6,High
+C0271,Small Business,Panama,Prepaid Cards,Branch Onboarding,1,2,1,3,1.6,Medium
+C0272,Retail Individual,India,Trade Finance,Broker-Dealer,3,2,3,3,2.6,High
+C0273,Corporate,Nigeria,Securities Trading,Online,2,3,1,3,2.2,Medium
+C0274,Corporate,Panama,Remittances,Relationship Manager,2,1,2,2,1.6,Medium
+C0275,Shell Company,Panama,Prepaid Cards,Online,2,2,3,2,2.3,Medium
+C0276,Corporate,Singapore,Securities Trading,Mobile App,2,2,2,3,2.1,Medium
+C0277,PEP,Nigeria,Cash Deposits,Broker-Dealer,1,1,3,2,1.7,Medium
+C0278,NGO,Panama,Trade Finance,Relationship Manager,3,3,1,2,2.3,Medium
+C0279,NGO,UK,Remittances,Mobile App,1,3,3,2,2.5,Medium
+C0280,Shell Company,USA,Securities Trading,Relationship Manager,1,2,3,3,2.2,Medium
+C0281,PEP,India,Wire Transfers,Broker-Dealer,2,2,3,1,2.2,Medium
+C0282,PEP,Singapore,Checking Account,Online,2,3,3,2,2.7,High
+C0283,NGO,Panama,Private Banking,Relationship Manager,2,1,3,3,2,Medium
+C0284,NGO,Nigeria,Checking Account,Relationship Manager,1,2,3,1,2,Medium
+C0285,Retail Individual,USA,Remittances,Mobile App,1,3,3,2,2.5,Medium
+C0286,Small Business,Nigeria,Wire Transfers,Online,1,2,1,3,1.6,Medium
+C0287,High Net Worth,Germany,Payroll Services,Online,1,1,2,3,1.5,Low
+C0288,Shell Company,India,Payroll Services,Broker-Dealer,2,1,3,3,2,Medium
+C0289,High Net Worth,India,Payroll Services,Relationship Manager,2,2,2,2,2,Medium
+C0290,Shell Company,Afghanistan,Remittances,Relationship Manager,1,2,3,3,2.2,Medium
+C0291,NGO,Germany,Prepaid Cards,Mobile App,3,1,1,3,1.6,Medium
+C0292,Shell Company,Panama,Trade Finance,Mobile App,1,1,1,2,1.1,Low
+C0293,PEP,India,Trade Finance,Online,2,2,1,3,1.8,Medium
+C0294,Shell Company,Germany,Wire Transfers,Relationship Manager,3,1,3,3,2.2,Medium
+C0295,Shell Company,UAE,Wire Transfers,Relationship Manager,1,3,2,3,2.3,Medium
+C0296,Corporate,UAE,Crypto Exchange,Online,1,3,2,3,2.3,Medium
+C0297,Retail Individual,Singapore,Checking Account,Online,2,2,2,1,1.9,Medium
+C0298,High Net Worth,UK,Prepaid Cards,Relationship Manager,2,3,2,1,2.3,Medium
+C0299,Small Business,Germany,Payroll Services,Branch Onboarding,1,2,3,3,2.2,Medium
+C0300,High Net Worth,Nigeria,Trade Finance,Relationship Manager,3,2,2,1,2.1,Medium
+C0301,Small Business,UAE,Wire Transfers,Broker-Dealer,1,2,1,1,1.4,Low
+C0302,Shell Company,Panama,Wire Transfers,Online,2,1,2,1,1.5,Low
+C0303,Shell Company,Panama,Securities Trading,Relationship Manager,1,1,1,1,1,Low
+C0304,Retail Individual,Germany,Cash Deposits,Broker-Dealer,2,2,1,3,1.8,Medium
+C0305,Corporate,Nigeria,Checking Account,Broker-Dealer,1,1,2,2,1.4,Low
+C0306,Shell Company,Panama,Prepaid Cards,Online,2,3,2,1,2.3,Medium
+C0307,Shell Company,Nigeria,Checking Account,Online,1,3,2,2,2.2,Medium
+C0308,Small Business,India,Trade Finance,Relationship Manager,2,1,3,2,1.9,Medium
+C0309,NGO,USA,Private Banking,Branch Onboarding,1,3,2,1,2.1,Medium
+C0310,High Net Worth,USA,Payroll Services,Branch Onboarding,2,3,2,3,2.5,Medium
+C0311,PEP,Nigeria,Trade Finance,Relationship Manager,3,1,1,3,1.6,Medium
+C0312,High Net Worth,Germany,Cash Deposits,Relationship Manager,2,3,2,3,2.5,Medium
+C0313,NGO,UAE,Securities Trading,Mobile App,3,1,2,2,1.8,Medium
+C0314,Shell Company,UAE,Securities Trading,Online,1,3,2,2,2.2,Medium
+C0315,Shell Company,Germany,Trade Finance,Mobile App,2,2,2,1,1.9,Medium
+C0316,PEP,Singapore,Securities Trading,Mobile App,2,3,3,1,2.6,High
+C0317,High Net Worth,Singapore,Checking Account,Relationship Manager,3,3,2,3,2.7,High
+C0318,Corporate,USA,Prepaid Cards,Broker-Dealer,2,2,2,2,2,Medium
+C0319,NGO,USA,Securities Trading,Relationship Manager,1,2,1,2,1.5,Low
+C0320,PEP,Panama,Trade Finance,Online,2,2,1,2,1.7,Medium
+C0321,Corporate,Panama,Checking Account,Online,2,1,2,1,1.5,Low
+C0322,Corporate,India,Securities Trading,Relationship Manager,1,1,3,3,1.8,Medium
+C0323,PEP,USA,Wire Transfers,Online,2,2,3,1,2.2,Medium
+C0324,Retail Individual,India,Securities Trading,Broker-Dealer,2,2,3,2,2.3,Medium
+C0325,PEP,UK,Remittances,Relationship Manager,2,2,2,3,2.1,Medium
+C0326,NGO,UAE,Wire Transfers,Relationship Manager,3,3,2,2,2.6,High
+C0327,Corporate,India,Private Banking,Branch Onboarding,2,2,1,1,1.6,Medium
+C0328,Shell Company,USA,Securities Trading,Online,2,2,2,1,1.9,Medium
+C0329,PEP,UAE,Wire Transfers,Online,1,1,3,2,1.7,Medium
+C0330,Shell Company,Afghanistan,Private Banking,Relationship Manager,2,1,1,1,1.2,Low
+C0331,Retail Individual,Singapore,Securities Trading,Online,2,1,3,2,1.9,Medium
+C0332,High Net Worth,UAE,Payroll Services,Mobile App,3,2,1,2,1.9,Medium
+C0333,Retail Individual,USA,Payroll Services,Relationship Manager,2,2,3,2,2.3,Medium
+C0334,Retail Individual,UK,Prepaid Cards,Broker-Dealer,2,3,1,2,2.1,Medium
+C0335,Shell Company,Nigeria,Prepaid Cards,Online,2,2,3,2,2.3,Medium
+C0336,PEP,Afghanistan,Payroll Services,Mobile App,2,3,1,1,2,Medium
+C0337,Shell Company,UK,Prepaid Cards,Mobile App,2,3,1,2,2.1,Medium
+C0338,Small Business,Nigeria,Crypto Exchange,Mobile App,2,3,1,2,2.1,Medium
+C0339,Small Business,India,Cash Deposits,Mobile App,1,2,1,1,1.4,Low
+C0340,Shell Company,India,Private Banking,Relationship Manager,2,1,1,3,1.4,Low
+C0341,Shell Company,Nigeria,Payroll Services,Mobile App,2,1,3,3,2,Medium
+C0342,Small Business,Nigeria,Remittances,Broker-Dealer,1,2,2,3,1.9,Medium
+C0343,Shell Company,UK,Payroll Services,Branch Onboarding,1,2,3,1,2,Medium
+C0344,Shell Company,Germany,Remittances,Branch Onboarding,2,1,3,1,1.8,Medium
+C0345,High Net Worth,Afghanistan,Private Banking,Relationship Manager,3,1,3,1,2,Medium
+C0346,NGO,UAE,Remittances,Online,2,2,2,2,2,Medium
+C0347,Retail Individual,Afghanistan,Trade Finance,Relationship Manager,1,2,2,1,1.7,Medium
+C0348,High Net Worth,Germany,Cash Deposits,Online,3,2,1,1,1.8,Medium
+C0349,Corporate,Singapore,Cash Deposits,Relationship Manager,3,1,2,3,1.9,Medium
+C0350,Small Business,UAE,Remittances,Mobile App,2,1,2,3,1.7,Medium
+C0351,Corporate,Nigeria,Trade Finance,Relationship Manager,2,2,2,3,2.1,Medium
+C0352,Corporate,USA,Prepaid Cards,Mobile App,1,2,3,1,2,Medium
+C0353,Retail Individual,UAE,Securities Trading,Branch Onboarding,3,2,2,2,2.2,Medium
+C0354,High Net Worth,UK,Remittances,Relationship Manager,1,3,3,2,2.5,Medium
+C0355,NGO,Panama,Checking Account,Mobile App,3,2,3,3,2.6,High
+C0356,Corporate,Afghanistan,Payroll Services,Online,2,2,2,3,2.1,Medium
+C0357,PEP,Nigeria,Payroll Services,Broker-Dealer,1,3,1,3,2,Medium
+C0358,NGO,UK,Payroll Services,Broker-Dealer,2,1,3,2,1.9,Medium
+C0359,High Net Worth,Afghanistan,Crypto Exchange,Online,2,2,3,3,2.4,Medium
+C0360,Small Business,India,Cash Deposits,Mobile App,3,2,1,1,1.8,Medium
+C0361,Corporate,India,Private Banking,Branch Onboarding,1,2,1,2,1.5,Low
+C0362,Shell Company,UAE,Wire Transfers,Online,1,1,1,3,1.2,Low
+C0363,Shell Company,India,Payroll Services,Branch Onboarding,1,2,3,2,2.1,Medium
+C0364,PEP,UK,Checking Account,Mobile App,3,3,3,3,3,High
+C0365,Retail Individual,USA,Cash Deposits,Relationship Manager,1,2,1,1,1.4,Low
+C0366,PEP,Nigeria,Crypto Exchange,Broker-Dealer,2,1,2,2,1.6,Medium
+C0367,Retail Individual,Panama,Securities Trading,Mobile App,1,2,3,1,2,Medium
+C0368,NGO,UAE,Crypto Exchange,Mobile App,2,2,1,2,1.7,Medium
+C0369,Retail Individual,USA,Prepaid Cards,Mobile App,2,1,3,1,1.8,Medium
+C0370,PEP,Singapore,Remittances,Broker-Dealer,1,3,1,3,2,Medium
+C0371,Shell Company,Singapore,Securities Trading,Relationship Manager,3,3,2,3,2.7,High
+C0372,High Net Worth,UK,Wire Transfers,Relationship Manager,1,2,2,1,1.7,Medium
+C0373,Shell Company,USA,Payroll Services,Mobile App,3,1,1,3,1.6,Medium
+C0374,Small Business,Germany,Remittances,Online,3,3,3,3,3,High
+C0375,Retail Individual,Panama,Wire Transfers,Online,1,3,2,2,2.2,Medium
+C0376,Corporate,Panama,Trade Finance,Mobile App,3,1,3,3,2.2,Medium
+C0377,Corporate,USA,Trade Finance,Broker-Dealer,3,3,2,3,2.7,High
+C0378,High Net Worth,Panama,Payroll Services,Broker-Dealer,3,2,3,3,2.6,High
+C0379,Corporate,Germany,Checking Account,Online,2,3,1,2,2.1,Medium
+C0380,NGO,Singapore,Checking Account,Relationship Manager,2,3,2,3,2.5,Medium
+C0381,Retail Individual,India,Payroll Services,Mobile App,1,1,3,2,1.7,Medium
+C0382,NGO,UK,Remittances,Mobile App,1,1,2,1,1.3,Low
+C0383,Retail Individual,UAE,Checking Account,Broker-Dealer,1,1,3,1,1.6,Medium
+C0384,NGO,Nigeria,Private Banking,Branch Onboarding,3,2,1,2,1.9,Medium
+C0385,NGO,Panama,Wire Transfers,Broker-Dealer,1,1,2,2,1.4,Low
+C0386,High Net Worth,Nigeria,Wire Transfers,Relationship Manager,3,3,2,3,2.7,High
+C0387,Shell Company,USA,Cash Deposits,Online,1,3,1,2,1.9,Medium
+C0388,Corporate,UAE,Private Banking,Mobile App,1,1,1,1,1,Low
+C0389,PEP,USA,Crypto Exchange,Mobile App,2,2,3,1,2.2,Medium
+C0390,Small Business,Germany,Cash Deposits,Mobile App,2,3,2,3,2.5,Medium
+C0391,PEP,USA,Payroll Services,Relationship Manager,2,2,2,3,2.1,Medium
+C0392,PEP,Germany,Payroll Services,Mobile App,3,2,2,2,2.2,Medium
+C0393,PEP,Afghanistan,Securities Trading,Branch Onboarding,2,3,3,2,2.7,High
+C0394,Corporate,UK,Remittances,Broker-Dealer,2,2,1,1,1.6,Medium
+C0395,High Net Worth,UAE,Payroll Services,Relationship Manager,3,3,3,1,2.8,High
+C0396,High Net Worth,Singapore,Wire Transfers,Online,2,3,1,3,2.2,Medium
+C0397,Shell Company,Afghanistan,Cash Deposits,Online,3,2,2,3,2.3,Medium
+C0398,High Net Worth,UAE,Securities Trading,Relationship Manager,2,1,1,2,1.3,Low
+C0399,Corporate,Panama,Securities Trading,Online,1,2,3,3,2.2,Medium
+C0400,PEP,Afghanistan,Checking Account,Online,1,2,1,1,1.4,Low
+C0401,PEP,UAE,Private Banking,Online,1,1,3,2,1.7,Medium
+C0402,Small Business,Germany,Cash Deposits,Relationship Manager,3,3,2,1,2.5,Medium
+C0403,Corporate,UK,Checking Account,Relationship Manager,3,3,3,3,3,High
+C0404,NGO,Germany,Remittances,Relationship Manager,3,2,2,2,2.2,Medium
+C0405,Corporate,India,Private Banking,Relationship Manager,2,3,3,2,2.7,High
+C0406,PEP,USA,Remittances,Relationship Manager,3,1,3,1,2,Medium
+C0407,Corporate,Nigeria,Prepaid Cards,Broker-Dealer,1,1,1,2,1.1,Low
+C0408,Small Business,UAE,Remittances,Relationship Manager,3,1,1,1,1.4,Low
+C0409,Shell Company,UK,Prepaid Cards,Broker-Dealer,3,1,2,3,1.9,Medium
+C0410,Retail Individual,Afghanistan,Cash Deposits,Broker-Dealer,3,3,2,2,2.6,High
+C0411,Small Business,Afghanistan,Private Banking,Branch Onboarding,2,1,3,2,1.9,Medium
+C0412,Small Business,India,Trade Finance,Branch Onboarding,2,1,1,3,1.4,Low
+C0413,High Net Worth,Nigeria,Payroll Services,Online,3,1,1,3,1.6,Medium
+C0414,High Net Worth,UK,Crypto Exchange,Online,1,1,1,1,1,Low
+C0415,Retail Individual,Panama,Remittances,Mobile App,2,3,3,3,2.8,High
+C0416,PEP,Panama,Payroll Services,Broker-Dealer,2,2,3,2,2.3,Medium
+C0417,Corporate,UK,Securities Trading,Branch Onboarding,3,3,2,1,2.5,Medium
+C0418,PEP,India,Cash Deposits,Online,1,2,1,3,1.6,Medium
+C0419,Corporate,Afghanistan,Payroll Services,Branch Onboarding,1,2,2,3,1.9,Medium
+C0420,Retail Individual,Panama,Remittances,Relationship Manager,1,2,3,1,2,Medium
+C0421,Corporate,USA,Prepaid Cards,Branch Onboarding,1,2,2,1,1.7,Medium
+C0422,PEP,UAE,Cash Deposits,Branch Onboarding,3,2,1,3,2,Medium
+C0423,Corporate,UK,Trade Finance,Branch Onboarding,2,3,3,2,2.7,High
+C0424,Shell Company,Germany,Trade Finance,Online,1,2,3,1,2,Medium
+C0425,Small Business,Afghanistan,Payroll Services,Relationship Manager,1,1,2,1,1.3,Low
+C0426,Retail Individual,USA,Securities Trading,Online,1,2,2,1,1.7,Medium
+C0427,Retail Individual,Panama,Cash Deposits,Relationship Manager,3,2,1,3,2,Medium
+C0428,NGO,UK,Prepaid Cards,Relationship Manager,2,2,2,1,1.9,Medium
+C0429,Corporate,Singapore,Trade Finance,Relationship Manager,3,2,1,3,2,Medium
+C0430,Corporate,UK,Crypto Exchange,Relationship Manager,3,2,3,1,2.4,Medium
+C0431,NGO,Panama,Cash Deposits,Branch Onboarding,3,3,2,3,2.7,High
+C0432,High Net Worth,Panama,Prepaid Cards,Broker-Dealer,1,1,2,1,1.3,Low
+C0433,Small Business,Germany,Securities Trading,Online,2,2,3,2,2.3,Medium
+C0434,Retail Individual,India,Securities Trading,Online,2,2,2,2,2,Medium
+C0435,Corporate,Afghanistan,Prepaid Cards,Branch Onboarding,1,3,1,1,1.8,Medium
+C0436,High Net Worth,Afghanistan,Checking Account,Online,1,3,2,3,2.3,Medium
+C0437,Retail Individual,UAE,Crypto Exchange,Mobile App,2,2,2,2,2,Medium
+C0438,Retail Individual,Nigeria,Checking Account,Branch Onboarding,3,1,2,3,1.9,Medium
+C0439,NGO,UAE,Remittances,Mobile App,1,1,2,2,1.4,Low
+C0440,Retail Individual,India,Trade Finance,Relationship Manager,2,3,2,3,2.5,Medium
+C0441,Shell Company,Afghanistan,Trade Finance,Online,1,3,2,2,2.2,Medium
+C0442,NGO,UAE,Securities Trading,Branch Onboarding,3,2,3,2,2.5,Medium
+C0443,PEP,Nigeria,Trade Finance,Mobile App,3,1,3,2,2.1,Medium
+C0444,High Net Worth,UAE,Wire Transfers,Broker-Dealer,3,1,2,2,1.8,Medium
+C0445,Shell Company,Germany,Checking Account,Broker-Dealer,3,1,3,1,2,Medium
+C0446,NGO,Afghanistan,Trade Finance,Online,3,2,1,1,1.8,Medium
+C0447,Corporate,UK,Cash Deposits,Mobile App,2,3,2,2,2.4,Medium
+C0448,Corporate,Nigeria,Payroll Services,Online,2,2,1,3,1.8,Medium
+C0449,Shell Company,UAE,Payroll Services,Broker-Dealer,3,3,3,3,3,High
+C0450,Corporate,Germany,Payroll Services,Broker-Dealer,1,2,3,1,2,Medium
+C0451,Shell Company,Nigeria,Crypto Exchange,Broker-Dealer,3,1,1,2,1.5,Low
+C0452,NGO,UK,Cash Deposits,Branch Onboarding,3,3,1,1,2.2,Medium
+C0453,Shell Company,Nigeria,Payroll Services,Broker-Dealer,2,1,1,2,1.3,Low
+C0454,Shell Company,USA,Checking Account,Mobile App,2,1,3,2,1.9,Medium
+C0455,Retail Individual,Afghanistan,Crypto Exchange,Mobile App,2,2,2,3,2.1,Medium
+C0456,Shell Company,Afghanistan,Remittances,Relationship Manager,2,2,2,2,2,Medium
+C0457,Small Business,UK,Remittances,Broker-Dealer,2,2,1,2,1.7,Medium
+C0458,Small Business,Afghanistan,Payroll Services,Online,2,2,3,1,2.2,Medium
+C0459,PEP,Afghanistan,Cash Deposits,Relationship Manager,3,2,3,3,2.6,High
+C0460,Retail Individual,India,Private Banking,Broker-Dealer,1,3,2,2,2.2,Medium
+C0461,Retail Individual,Singapore,Cash Deposits,Broker-Dealer,1,1,1,3,1.2,Low
+C0462,Retail Individual,UAE,Securities Trading,Broker-Dealer,2,2,1,3,1.8,Medium
+C0463,NGO,Singapore,Prepaid Cards,Branch Onboarding,2,3,2,1,2.3,Medium
+C0464,Small Business,Singapore,Private Banking,Branch Onboarding,3,2,2,2,2.2,Medium
+C0465,High Net Worth,USA,Remittances,Relationship Manager,2,3,1,1,2,Medium
+C0466,Retail Individual,Nigeria,Checking Account,Relationship Manager,2,1,1,1,1.2,Low
+C0467,PEP,Afghanistan,Trade Finance,Branch Onboarding,2,1,2,3,1.7,Medium
+C0468,Corporate,Nigeria,Trade Finance,Online,1,3,2,2,2.2,Medium
+C0469,PEP,India,Private Banking,Online,2,1,3,2,1.9,Medium
+C0470,PEP,Nigeria,Trade Finance,Mobile App,2,2,1,3,1.8,Medium
+C0471,Corporate,Nigeria,Payroll Services,Mobile App,1,1,1,2,1.1,Low
+C0472,Shell Company,Singapore,Private Banking,Relationship Manager,2,1,1,2,1.3,Low
+C0473,High Net Worth,Germany,Securities Trading,Branch Onboarding,1,1,3,2,1.7,Medium
+C0474,Corporate,Afghanistan,Private Banking,Branch Onboarding,3,2,3,3,2.6,High
+C0475,Corporate,UK,Wire Transfers,Relationship Manager,2,2,1,3,1.8,Medium
+C0476,Corporate,Singapore,Remittances,Relationship Manager,2,3,1,2,2.1,Medium
+C0477,Shell Company,UK,Prepaid Cards,Relationship Manager,2,2,1,1,1.6,Medium
+C0478,Small Business,India,Checking Account,Relationship Manager,1,3,1,2,1.9,Medium
+C0479,Small Business,UAE,Prepaid Cards,Relationship Manager,2,2,3,2,2.3,Medium
+C0480,Shell Company,Singapore,Payroll Services,Mobile App,1,2,1,3,1.6,Medium
+C0481,PEP,Singapore,Trade Finance,Branch Onboarding,2,2,1,3,1.8,Medium
+C0482,High Net Worth,Afghanistan,Wire Transfers,Relationship Manager,1,3,1,3,2,Medium
+C0483,High Net Worth,India,Private Banking,Mobile App,3,2,1,3,2,Medium
+C0484,PEP,Singapore,Securities Trading,Branch Onboarding,3,3,3,2,2.9,High
+C0485,Shell Company,UK,Prepaid Cards,Branch Onboarding,3,2,3,1,2.4,Medium
+C0486,Shell Company,Nigeria,Payroll Services,Branch Onboarding,3,3,3,3,3,High
+C0487,NGO,UAE,Prepaid Cards,Branch Onboarding,3,3,1,2,2.3,Medium
+C0488,Retail Individual,Germany,Prepaid Cards,Relationship Manager,3,2,2,1,2.1,Medium
+C0489,PEP,Afghanistan,Private Banking,Relationship Manager,3,2,3,2,2.5,Medium
+C0490,High Net Worth,Nigeria,Prepaid Cards,Broker-Dealer,1,2,1,2,1.5,Low
+C0491,PEP,Panama,Trade Finance,Relationship Manager,3,3,1,3,2.4,Medium
+C0492,Corporate,Panama,Trade Finance,Online,3,2,3,3,2.6,High
+C0493,Corporate,Germany,Wire Transfers,Broker-Dealer,3,3,1,3,2.4,Medium
+C0494,NGO,Germany,Remittances,Relationship Manager,3,3,3,1,2.8,High
+C0495,NGO,UK,Checking Account,Broker-Dealer,2,1,3,1,1.8,Medium
+C0496,Corporate,Germany,Payroll Services,Branch Onboarding,2,2,3,1,2.2,Medium
+C0497,Corporate,UK,Wire Transfers,Branch Onboarding,3,3,1,1,2.2,Medium
+C0498,Shell Company,UAE,Trade Finance,Online,3,2,3,2,2.5,Medium
+C0499,PEP,Afghanistan,Securities Trading,Branch Onboarding,1,3,3,1,2.4,Medium
+C0500,NGO,Germany,Trade Finance,Relationship Manager,2,2,3,1,2.2,Medium
+C0501,NGO,Panama,Securities Trading,Online,3,2,3,1,2.4,Medium
+C0502,PEP,USA,Checking Account,Broker-Dealer,2,1,2,2,1.6,Medium
+C0503,High Net Worth,Afghanistan,Payroll Services,Mobile App,3,1,1,2,1.5,Low
+C0504,Retail Individual,India,Remittances,Relationship Manager,3,1,3,3,2.2,Medium
+C0505,Shell Company,Afghanistan,Payroll Services,Online,3,2,1,2,1.9,Medium
+C0506,Corporate,Nigeria,Checking Account,Broker-Dealer,2,3,1,3,2.2,Medium
+C0507,NGO,Nigeria,Wire Transfers,Relationship Manager,2,3,2,3,2.5,Medium
+C0508,High Net Worth,UK,Trade Finance,Branch Onboarding,1,2,1,2,1.5,Low
+C0509,NGO,UK,Prepaid Cards,Relationship Manager,3,1,1,2,1.5,Low
+C0510,Small Business,Panama,Remittances,Broker-Dealer,1,1,1,3,1.2,Low
+C0511,Corporate,Panama,Trade Finance,Relationship Manager,1,2,3,3,2.2,Medium
+C0512,High Net Worth,India,Checking Account,Broker-Dealer,1,3,2,1,2.1,Medium
+C0513,Small Business,India,Payroll Services,Online,3,3,2,3,2.7,High
+C0514,PEP,Panama,Trade Finance,Branch Onboarding,3,2,3,3,2.6,High
+C0515,Corporate,Afghanistan,Wire Transfers,Relationship Manager,2,3,2,1,2.3,Medium
+C0516,Shell Company,Nigeria,Cash Deposits,Broker-Dealer,2,1,2,2,1.6,Medium
+C0517,PEP,UK,Cash Deposits,Relationship Manager,2,3,3,2,2.7,High
+C0518,Small Business,UK,Private Banking,Mobile App,2,2,3,3,2.4,Medium
+C0519,Small Business,UK,Prepaid Cards,Broker-Dealer,3,3,1,2,2.3,Medium
+C0520,PEP,Panama,Remittances,Relationship Manager,3,2,2,2,2.2,Medium
+C0521,Corporate,Nigeria,Checking Account,Online,3,2,3,1,2.4,Medium
+C0522,Shell Company,UK,Trade Finance,Mobile App,3,2,2,3,2.3,Medium
+C0523,High Net Worth,USA,Trade Finance,Broker-Dealer,2,2,1,2,1.7,Medium
+C0524,Small Business,Germany,Prepaid Cards,Mobile App,1,2,1,1,1.4,Low
+C0525,Corporate,Panama,Crypto Exchange,Mobile App,2,3,1,2,2.1,Medium
+C0526,PEP,India,Checking Account,Branch Onboarding,1,2,1,2,1.5,Low
+C0527,Small Business,USA,Prepaid Cards,Relationship Manager,3,3,1,3,2.4,Medium
+C0528,PEP,UAE,Remittances,Relationship Manager,2,1,1,3,1.4,Low
+C0529,Retail Individual,Nigeria,Securities Trading,Broker-Dealer,2,3,1,2,2.1,Medium
+C0530,NGO,Singapore,Wire Transfers,Mobile App,1,3,3,1,2.4,Medium
+C0531,Small Business,USA,Checking Account,Broker-Dealer,3,3,3,1,2.8,High
+C0532,Corporate,UAE,Securities Trading,Relationship Manager,3,3,2,2,2.6,High
+C0533,NGO,Germany,Checking Account,Branch Onboarding,1,2,2,3,1.9,Medium
+C0534,Small Business,Panama,Wire Transfers,Relationship Manager,2,1,1,3,1.4,Low
+C0535,PEP,Germany,Crypto Exchange,Mobile App,2,1,2,1,1.5,Low
+C0536,High Net Worth,Nigeria,Crypto Exchange,Broker-Dealer,2,2,2,1,1.9,Medium
+C0537,High Net Worth,Nigeria,Private Banking,Branch Onboarding,3,2,1,1,1.8,Medium
+C0538,Shell Company,Singapore,Remittances,Broker-Dealer,1,2,3,3,2.2,Medium
+C0539,Corporate,Singapore,Trade Finance,Branch Onboarding,2,2,1,3,1.8,Medium
+C0540,Shell Company,Germany,Wire Transfers,Branch Onboarding,3,1,3,2,2.1,Medium
+C0541,High Net Worth,Nigeria,Securities Trading,Branch Onboarding,1,2,2,3,1.9,Medium
+C0542,High Net Worth,Germany,Crypto Exchange,Online,3,2,1,2,1.9,Medium
+C0543,Corporate,India,Prepaid Cards,Online,2,1,1,3,1.4,Low
+C0544,Shell Company,USA,Prepaid Cards,Branch Onboarding,1,3,2,3,2.3,Medium
+C0545,Retail Individual,Afghanistan,Crypto Exchange,Broker-Dealer,1,3,2,1,2.1,Medium
+C0546,Retail Individual,UAE,Checking Account,Branch Onboarding,3,1,1,3,1.6,Medium
+C0547,NGO,Germany,Remittances,Mobile App,1,2,2,1,1.7,Medium
+C0548,NGO,UK,Private Banking,Online,3,3,1,2,2.3,Medium
+C0549,High Net Worth,Germany,Trade Finance,Branch Onboarding,2,1,1,1,1.2,Low
+C0550,NGO,Singapore,Crypto Exchange,Mobile App,3,1,3,3,2.2,Medium
+C0551,High Net Worth,Germany,Cash Deposits,Branch Onboarding,3,1,1,2,1.5,Low
+C0552,PEP,Germany,Prepaid Cards,Online,3,2,2,1,2.1,Medium
+C0553,Retail Individual,Panama,Securities Trading,Broker-Dealer,3,2,3,3,2.6,High
+C0554,Retail Individual,Singapore,Checking Account,Branch Onboarding,1,1,3,2,1.7,Medium
+C0555,NGO,Nigeria,Checking Account,Relationship Manager,2,3,2,3,2.5,Medium
+C0556,Shell Company,Germany,Cash Deposits,Mobile App,1,1,2,1,1.3,Low
+C0557,PEP,Panama,Wire Transfers,Branch Onboarding,1,2,2,3,1.9,Medium
+C0558,High Net Worth,Afghanistan,Checking Account,Branch Onboarding,3,2,3,2,2.5,Medium
+C0559,Retail Individual,UAE,Private Banking,Relationship Manager,3,3,1,3,2.4,Medium
+C0560,High Net Worth,UK,Crypto Exchange,Broker-Dealer,1,3,1,3,2,Medium
+C0561,Retail Individual,UK,Wire Transfers,Branch Onboarding,3,1,3,3,2.2,Medium
+C0562,High Net Worth,Afghanistan,Checking Account,Broker-Dealer,2,3,2,2,2.4,Medium
+C0563,Small Business,UAE,Payroll Services,Online,3,3,2,3,2.7,High
+C0564,High Net Worth,Afghanistan,Cash Deposits,Broker-Dealer,1,1,3,2,1.7,Medium
+C0565,High Net Worth,UK,Securities Trading,Mobile App,2,3,2,1,2.3,Medium
+C0566,NGO,Panama,Securities Trading,Broker-Dealer,2,1,2,2,1.6,Medium
+C0567,Small Business,Panama,Wire Transfers,Online,2,3,1,1,2,Medium
+C0568,PEP,India,Checking Account,Branch Onboarding,3,2,3,2,2.5,Medium
+C0569,Corporate,Panama,Checking Account,Relationship Manager,1,2,2,2,1.8,Medium
+C0570,Shell Company,Nigeria,Prepaid Cards,Online,2,2,2,2,2,Medium
+C0571,PEP,Singapore,Prepaid Cards,Broker-Dealer,1,1,3,2,1.7,Medium
+C0572,High Net Worth,UK,Private Banking,Mobile App,2,2,2,2,2,Medium
+C0573,Small Business,USA,Private Banking,Broker-Dealer,1,3,1,3,2,Medium
+C0574,Small Business,Nigeria,Payroll Services,Branch Onboarding,3,1,3,1,2,Medium
+C0575,Corporate,USA,Cash Deposits,Mobile App,2,2,3,1,2.2,Medium
+C0576,NGO,Panama,Prepaid Cards,Mobile App,3,1,1,3,1.6,Medium
+C0577,PEP,UK,Private Banking,Broker-Dealer,3,1,2,2,1.8,Medium
+C0578,Corporate,Panama,Wire Transfers,Branch Onboarding,1,3,2,1,2.1,Medium
+C0579,Small Business,India,Checking Account,Online,2,2,2,1,1.9,Medium
+C0580,NGO,UAE,Remittances,Branch Onboarding,3,2,3,3,2.6,High
+C0581,Shell Company,Nigeria,Payroll Services,Broker-Dealer,1,2,2,2,1.8,Medium
+C0582,Small Business,Afghanistan,Crypto Exchange,Online,1,2,3,1,2,Medium
+C0583,High Net Worth,Singapore,Cash Deposits,Mobile App,1,1,3,3,1.8,Medium
+C0584,Shell Company,Afghanistan,Private Banking,Broker-Dealer,1,2,1,2,1.5,Low
+C0585,High Net Worth,India,Cash Deposits,Relationship Manager,3,1,1,1,1.4,Low
+C0586,NGO,Afghanistan,Prepaid Cards,Online,1,1,1,3,1.2,Low
+C0587,Shell Company,UK,Private Banking,Mobile App,3,3,1,1,2.2,Medium
+C0588,NGO,UK,Crypto Exchange,Broker-Dealer,1,1,3,1,1.6,Medium
+C0589,NGO,Panama,Crypto Exchange,Broker-Dealer,3,1,1,2,1.5,Low
+C0590,Corporate,UAE,Private Banking,Online,2,2,1,3,1.8,Medium
+C0591,Corporate,Panama,Trade Finance,Broker-Dealer,1,1,2,2,1.4,Low
+C0592,NGO,Nigeria,Private Banking,Mobile App,2,3,3,3,2.8,High
+C0593,Small Business,USA,Payroll Services,Mobile App,3,3,3,2,2.9,High
+C0594,Small Business,India,Remittances,Mobile App,2,2,2,1,1.9,Medium
+C0595,Corporate,Nigeria,Cash Deposits,Relationship Manager,1,2,2,3,1.9,Medium
+C0596,Shell Company,Afghanistan,Wire Transfers,Branch Onboarding,2,3,1,3,2.2,Medium
+C0597,High Net Worth,Nigeria,Cash Deposits,Broker-Dealer,1,3,3,2,2.5,Medium
+C0598,PEP,Afghanistan,Checking Account,Branch Onboarding,1,1,1,3,1.2,Low
+C0599,Shell Company,Nigeria,Trade Finance,Branch Onboarding,2,2,1,3,1.8,Medium
+C0600,Retail Individual,Singapore,Prepaid Cards,Broker-Dealer,1,2,3,2,2.1,Medium
+C0601,Corporate,Afghanistan,Payroll Services,Relationship Manager,1,2,1,1,1.4,Low
+C0602,High Net Worth,India,Checking Account,Online,3,2,3,1,2.4,Medium
+C0603,High Net Worth,India,Crypto Exchange,Branch Onboarding,1,2,2,3,1.9,Medium
+C0604,Retail Individual,Germany,Wire Transfers,Mobile App,2,3,2,3,2.5,Medium
+C0605,Shell Company,India,Crypto Exchange,Broker-Dealer,3,2,2,3,2.3,Medium
+C0606,Corporate,Singapore,Remittances,Relationship Manager,1,1,3,3,1.8,Medium
+C0607,High Net Worth,Panama,Securities Trading,Online,2,1,3,1,1.8,Medium
+C0608,Retail Individual,Nigeria,Crypto Exchange,Relationship Manager,3,3,1,1,2.2,Medium
+C0609,PEP,USA,Cash Deposits,Broker-Dealer,1,3,2,2,2.2,Medium
+C0610,Small Business,Panama,Wire Transfers,Online,2,1,3,2,1.9,Medium
+C0611,High Net Worth,UK,Cash Deposits,Mobile App,3,3,2,1,2.5,Medium
+C0612,High Net Worth,India,Wire Transfers,Broker-Dealer,3,2,2,1,2.1,Medium
+C0613,Corporate,USA,Wire Transfers,Mobile App,2,1,3,1,1.8,Medium
+C0614,Shell Company,India,Remittances,Relationship Manager,1,2,3,1,2,Medium
+C0615,Corporate,UK,Trade Finance,Mobile App,1,3,3,2,2.5,Medium
+C0616,Small Business,Panama,Private Banking,Broker-Dealer,1,1,2,3,1.5,Low
+C0617,Small Business,Germany,Remittances,Broker-Dealer,2,1,2,1,1.5,Low
+C0618,Shell Company,UK,Trade Finance,Branch Onboarding,1,1,3,1,1.6,Medium
+C0619,NGO,Germany,Trade Finance,Online,1,2,2,1,1.7,Medium
+C0620,Retail Individual,Afghanistan,Prepaid Cards,Broker-Dealer,1,2,1,2,1.5,Low
+C0621,PEP,India,Prepaid Cards,Online,3,1,2,2,1.8,Medium
+C0622,Retail Individual,Nigeria,Prepaid Cards,Relationship Manager,3,1,2,3,1.9,Medium
+C0623,PEP,UAE,Trade Finance,Branch Onboarding,3,1,3,1,2,Medium
+C0624,Small Business,Nigeria,Payroll Services,Mobile App,3,1,3,2,2.1,Medium
+C0625,Shell Company,Afghanistan,Prepaid Cards,Relationship Manager,1,3,2,2,2.2,Medium
+C0626,High Net Worth,USA,Payroll Services,Broker-Dealer,1,2,2,2,1.8,Medium
+C0627,Shell Company,Germany,Trade Finance,Mobile App,3,3,2,2,2.6,High
+C0628,NGO,UAE,Payroll Services,Relationship Manager,1,2,2,3,1.9,Medium
+C0629,PEP,India,Prepaid Cards,Relationship Manager,1,1,2,3,1.5,Low
+C0630,High Net Worth,Germany,Wire Transfers,Relationship Manager,1,3,2,3,2.3,Medium
+C0631,NGO,Singapore,Trade Finance,Broker-Dealer,2,2,2,2,2,Medium
+C0632,Retail Individual,Panama,Cash Deposits,Mobile App,3,2,3,2,2.5,Medium
+C0633,Retail Individual,Afghanistan,Payroll Services,Branch Onboarding,1,3,3,1,2.4,Medium
+C0634,Small Business,Nigeria,Private Banking,Relationship Manager,1,3,3,1,2.4,Medium
+C0635,High Net Worth,Nigeria,Payroll Services,Branch Onboarding,3,2,3,2,2.5,Medium
+C0636,Retail Individual,Germany,Checking Account,Online,3,1,1,2,1.5,Low
+C0637,PEP,UAE,Payroll Services,Relationship Manager,2,2,3,2,2.3,Medium
+C0638,Corporate,UK,Private Banking,Mobile App,3,1,1,3,1.6,Medium
+C0639,NGO,Afghanistan,Wire Transfers,Mobile App,2,2,3,3,2.4,Medium
+C0640,Corporate,Panama,Private Banking,Mobile App,2,2,3,2,2.3,Medium
+C0641,NGO,Panama,Securities Trading,Relationship Manager,2,1,2,3,1.7,Medium
+C0642,Shell Company,Singapore,Remittances,Broker-Dealer,3,2,1,1,1.8,Medium
+C0643,Corporate,Singapore,Payroll Services,Mobile App,3,3,3,3,3,High
+C0644,PEP,Germany,Payroll Services,Relationship Manager,2,3,2,3,2.5,Medium
+C0645,Shell Company,UAE,Wire Transfers,Broker-Dealer,2,2,3,3,2.4,Medium
+C0646,Retail Individual,Panama,Securities Trading,Mobile App,3,1,3,3,2.2,Medium
+C0647,PEP,Afghanistan,Securities Trading,Relationship Manager,2,1,3,3,2,Medium
+C0648,Shell Company,UK,Wire Transfers,Broker-Dealer,2,1,2,2,1.6,Medium
+C0649,Small Business,UAE,Payroll Services,Online,1,2,1,2,1.5,Low
+C0650,Corporate,UK,Payroll Services,Branch Onboarding,1,1,3,2,1.7,Medium
+C0651,High Net Worth,USA,Checking Account,Branch Onboarding,1,2,1,2,1.5,Low
+C0652,Small Business,USA,Private Banking,Mobile App,1,2,2,2,1.8,Medium
+C0653,Shell Company,Nigeria,Wire Transfers,Online,2,1,1,2,1.3,Low
+C0654,Small Business,Panama,Trade Finance,Broker-Dealer,1,3,2,3,2.3,Medium
+C0655,High Net Worth,UAE,Cash Deposits,Online,2,2,2,3,2.1,Medium
+C0656,Retail Individual,Nigeria,Cash Deposits,Relationship Manager,3,3,3,3,3,High
+C0657,PEP,Panama,Trade Finance,Branch Onboarding,2,3,3,2,2.7,High
+C0658,NGO,Nigeria,Checking Account,Mobile App,3,2,1,3,2,Medium
+C0659,Shell Company,Singapore,Prepaid Cards,Branch Onboarding,1,3,1,2,1.9,Medium
+C0660,Retail Individual,USA,Private Banking,Branch Onboarding,3,2,2,3,2.3,Medium
+C0661,Retail Individual,Panama,Wire Transfers,Broker-Dealer,2,2,3,1,2.2,Medium
+C0662,Retail Individual,Panama,Payroll Services,Relationship Manager,1,3,3,1,2.4,Medium
+C0663,PEP,Germany,Prepaid Cards,Mobile App,1,3,2,1,2.1,Medium
+C0664,Shell Company,UK,Checking Account,Branch Onboarding,1,3,1,1,1.8,Medium
+C0665,Small Business,UAE,Cash Deposits,Broker-Dealer,2,2,1,3,1.8,Medium
+C0666,High Net Worth,Singapore,Trade Finance,Broker-Dealer,1,2,1,2,1.5,Low
+C0667,PEP,Germany,Trade Finance,Mobile App,2,3,1,1,2,Medium
+C0668,High Net Worth,Singapore,Cash Deposits,Online,2,2,3,1,2.2,Medium
+C0669,Small Business,UAE,Securities Trading,Online,1,1,1,2,1.1,Low
+C0670,Small Business,Singapore,Checking Account,Branch Onboarding,3,1,3,1,2,Medium
+C0671,Retail Individual,Singapore,Prepaid Cards,Branch Onboarding,2,3,3,2,2.7,High
+C0672,NGO,UK,Prepaid Cards,Branch Onboarding,1,3,3,1,2.4,Medium
+C0673,Corporate,UAE,Private Banking,Broker-Dealer,1,3,2,3,2.3,Medium
+C0674,Small Business,UAE,Securities Trading,Mobile App,2,1,3,2,1.9,Medium
+C0675,High Net Worth,UAE,Checking Account,Broker-Dealer,1,3,3,1,2.4,Medium
+C0676,NGO,Singapore,Crypto Exchange,Relationship Manager,3,3,3,1,2.8,High
+C0677,Corporate,India,Payroll Services,Online,1,3,3,1,2.4,Medium
+C0678,Shell Company,Singapore,Cash Deposits,Online,2,2,1,2,1.7,Medium
+C0679,NGO,UAE,Remittances,Relationship Manager,1,1,1,1,1,Low
+C0680,Shell Company,Afghanistan,Payroll Services,Mobile App,2,1,2,3,1.7,Medium
+C0681,Shell Company,UK,Wire Transfers,Online,1,3,3,3,2.6,High
+C0682,PEP,Nigeria,Trade Finance,Mobile App,2,2,2,1,1.9,Medium
+C0683,NGO,UAE,Prepaid Cards,Relationship Manager,2,1,1,2,1.3,Low
+C0684,Retail Individual,Germany,Securities Trading,Branch Onboarding,1,2,3,1,2,Medium
+C0685,High Net Worth,Afghanistan,Prepaid Cards,Broker-Dealer,1,2,1,1,1.4,Low
+C0686,Retail Individual,USA,Wire Transfers,Broker-Dealer,2,3,1,3,2.2,Medium
+C0687,NGO,USA,Private Banking,Online,1,1,2,3,1.5,Low
+C0688,PEP,Germany,Cash Deposits,Mobile App,3,3,3,3,3,High
+C0689,Retail Individual,Panama,Crypto Exchange,Broker-Dealer,3,2,2,3,2.3,Medium
+C0690,Corporate,India,Payroll Services,Branch Onboarding,2,2,1,2,1.7,Medium
+C0691,Corporate,USA,Trade Finance,Relationship Manager,2,3,2,1,2.3,Medium
+C0692,Corporate,India,Wire Transfers,Relationship Manager,3,2,3,3,2.6,High
+C0693,Corporate,Nigeria,Prepaid Cards,Mobile App,3,3,3,2,2.9,High
+C0694,Shell Company,Germany,Crypto Exchange,Online,3,3,2,3,2.7,High
+C0695,Shell Company,India,Payroll Services,Relationship Manager,2,3,1,1,2,Medium
+C0696,Small Business,Nigeria,Wire Transfers,Mobile App,1,2,2,3,1.9,Medium
+C0697,High Net Worth,Nigeria,Wire Transfers,Online,1,3,2,2,2.2,Medium
+C0698,Retail Individual,India,Payroll Services,Relationship Manager,2,1,2,3,1.7,Medium
+C0699,NGO,Germany,Trade Finance,Broker-Dealer,1,3,3,2,2.5,Medium
+C0700,Shell Company,Germany,Wire Transfers,Relationship Manager,2,1,2,2,1.6,Medium
+C0701,PEP,Afghanistan,Wire Transfers,Broker-Dealer,2,2,2,3,2.1,Medium
+C0702,High Net Worth,India,Private Banking,Online,2,2,3,3,2.4,Medium
+C0703,NGO,Singapore,Trade Finance,Relationship Manager,1,3,2,2,2.2,Medium
+C0704,Small Business,Panama,Private Banking,Online,1,3,1,1,1.8,Medium
+C0705,High Net Worth,India,Prepaid Cards,Mobile App,2,2,2,3,2.1,Medium
+C0706,Corporate,Afghanistan,Checking Account,Mobile App,3,1,3,3,2.2,Medium
+C0707,Small Business,India,Payroll Services,Online,1,3,3,3,2.6,High
+C0708,PEP,Nigeria,Private Banking,Broker-Dealer,3,2,2,3,2.3,Medium
+C0709,Shell Company,USA,Cash Deposits,Online,3,1,1,1,1.4,Low
+C0710,Corporate,Singapore,Wire Transfers,Online,3,2,3,1,2.4,Medium
+C0711,NGO,UK,Securities Trading,Broker-Dealer,1,2,1,1,1.4,Low
+C0712,NGO,UAE,Prepaid Cards,Online,3,2,1,2,1.9,Medium
+C0713,Small Business,Nigeria,Cash Deposits,Online,1,3,1,3,2,Medium
+C0714,PEP,Afghanistan,Prepaid Cards,Online,2,3,1,3,2.2,Medium
+C0715,Corporate,Panama,Private Banking,Relationship Manager,3,3,1,2,2.3,Medium
+C0716,Small Business,India,Checking Account,Relationship Manager,2,2,3,3,2.4,Medium
+C0717,PEP,Panama,Payroll Services,Mobile App,3,2,3,3,2.6,High
+C0718,High Net Worth,Singapore,Checking Account,Online,1,3,3,1,2.4,Medium
+C0719,High Net Worth,Nigeria,Wire Transfers,Relationship Manager,2,3,2,3,2.5,Medium
+C0720,Corporate,UK,Securities Trading,Relationship Manager,1,3,1,2,1.9,Medium
+C0721,High Net Worth,UAE,Payroll Services,Broker-Dealer,1,3,3,3,2.6,High
+C0722,PEP,UAE,Crypto Exchange,Branch Onboarding,2,3,3,1,2.6,High
+C0723,Small Business,Nigeria,Prepaid Cards,Relationship Manager,1,2,2,2,1.8,Medium
+C0724,NGO,UAE,Cash Deposits,Mobile App,2,3,1,1,2,Medium
+C0725,Corporate,India,Remittances,Online,3,1,3,2,2.1,Medium
+C0726,Shell Company,Afghanistan,Crypto Exchange,Broker-Dealer,3,1,3,3,2.2,Medium
+C0727,High Net Worth,Panama,Remittances,Broker-Dealer,2,2,1,3,1.8,Medium
+C0728,High Net Worth,USA,Wire Transfers,Relationship Manager,3,2,3,3,2.6,High
+C0729,Small Business,UK,Private Banking,Broker-Dealer,3,2,1,2,1.9,Medium
+C0730,Corporate,UAE,Remittances,Relationship Manager,2,2,2,3,2.1,Medium
+C0731,High Net Worth,Panama,Cash Deposits,Relationship Manager,1,2,3,2,2.1,Medium
+C0732,Retail Individual,Afghanistan,Crypto Exchange,Mobile App,1,2,1,3,1.6,Medium
+C0733,High Net Worth,India,Crypto Exchange,Relationship Manager,2,1,1,1,1.2,Low
+C0734,Shell Company,Afghanistan,Crypto Exchange,Online,2,1,2,3,1.7,Medium
+C0735,Shell Company,Nigeria,Prepaid Cards,Relationship Manager,1,1,2,1,1.3,Low
+C0736,Retail Individual,UAE,Securities Trading,Mobile App,2,1,3,1,1.8,Medium
+C0737,PEP,Panama,Checking Account,Mobile App,3,1,1,2,1.5,Low
+C0738,Retail Individual,Germany,Prepaid Cards,Relationship Manager,1,1,3,2,1.7,Medium
+C0739,Corporate,Afghanistan,Remittances,Online,1,3,1,3,2,Medium
+C0740,Retail Individual,Singapore,Remittances,Relationship Manager,1,2,2,1,1.7,Medium
+C0741,Corporate,Germany,Private Banking,Relationship Manager,2,3,1,1,2,Medium
+C0742,Retail Individual,USA,Securities Trading,Mobile App,3,2,3,2,2.5,Medium
+C0743,Shell Company,UAE,Payroll Services,Relationship Manager,3,1,3,3,2.2,Medium
+C0744,Shell Company,UK,Wire Transfers,Relationship Manager,2,1,2,3,1.7,Medium
+C0745,Retail Individual,Afghanistan,Cash Deposits,Online,3,3,1,3,2.4,Medium
+C0746,High Net Worth,Afghanistan,Payroll Services,Mobile App,2,2,1,3,1.8,Medium
+C0747,Shell Company,India,Private Banking,Mobile App,3,2,3,1,2.4,Medium
+C0748,Retail Individual,Germany,Private Banking,Broker-Dealer,2,1,2,1,1.5,Low
+C0749,High Net Worth,Singapore,Wire Transfers,Online,2,3,3,1,2.6,High
+C0750,Retail Individual,India,Securities Trading,Relationship Manager,1,2,3,3,2.2,Medium
+C0751,Corporate,USA,Securities Trading,Relationship Manager,2,3,3,1,2.6,High
+C0752,PEP,Afghanistan,Trade Finance,Broker-Dealer,1,2,1,3,1.6,Medium
+C0753,Shell Company,UAE,Cash Deposits,Mobile App,2,2,2,1,1.9,Medium
+C0754,NGO,USA,Trade Finance,Online,2,1,3,3,2,Medium
+C0755,Corporate,UAE,Wire Transfers,Online,1,1,1,2,1.1,Low
+C0756,NGO,Panama,Remittances,Relationship Manager,3,2,2,2,2.2,Medium
+C0757,NGO,Germany,Securities Trading,Online,2,2,1,2,1.7,Medium
+C0758,Shell Company,USA,Prepaid Cards,Mobile App,3,3,2,2,2.6,High
+C0759,PEP,USA,Wire Transfers,Mobile App,3,3,1,2,2.3,Medium
+C0760,PEP,Germany,Wire Transfers,Branch Onboarding,2,3,1,3,2.2,Medium
+C0761,NGO,UK,Cash Deposits,Relationship Manager,1,2,2,3,1.9,Medium
+C0762,NGO,Germany,Prepaid Cards,Online,1,1,2,2,1.4,Low
+C0763,NGO,Panama,Remittances,Online,2,3,1,3,2.2,Medium
+C0764,NGO,UK,Securities Trading,Mobile App,2,2,3,2,2.3,Medium
+C0765,Corporate,India,Remittances,Broker-Dealer,2,3,1,3,2.2,Medium
+C0766,Shell Company,Nigeria,Remittances,Relationship Manager,3,1,3,1,2,Medium
+C0767,NGO,Panama,Prepaid Cards,Branch Onboarding,3,3,2,2,2.6,High
+C0768,Small Business,Singapore,Remittances,Online,1,3,3,1,2.4,Medium
+C0769,Corporate,Afghanistan,Payroll Services,Relationship Manager,2,1,2,3,1.7,Medium
+C0770,Small Business,Panama,Prepaid Cards,Mobile App,1,3,3,1,2.4,Medium
+C0771,NGO,UAE,Trade Finance,Online,1,1,3,1,1.6,Medium
+C0772,Retail Individual,Panama,Payroll Services,Mobile App,3,2,1,3,2,Medium
+C0773,Shell Company,UK,Cash Deposits,Branch Onboarding,2,2,1,1,1.6,Medium
+C0774,Small Business,USA,Remittances,Mobile App,2,1,2,2,1.6,Medium
+C0775,Small Business,Germany,Private Banking,Online,3,3,1,1,2.2,Medium
+C0776,NGO,Singapore,Trade Finance,Branch Onboarding,2,1,2,2,1.6,Medium
+C0777,Shell Company,Singapore,Private Banking,Broker-Dealer,1,2,1,3,1.6,Medium
+C0778,Small Business,UK,Securities Trading,Branch Onboarding,1,1,3,2,1.7,Medium
+C0779,PEP,Nigeria,Crypto Exchange,Mobile App,1,3,1,2,1.9,Medium
+C0780,Corporate,India,Securities Trading,Relationship Manager,3,1,2,3,1.9,Medium
+C0781,NGO,India,Private Banking,Broker-Dealer,2,2,3,2,2.3,Medium
+C0782,Shell Company,India,Crypto Exchange,Mobile App,1,1,2,3,1.5,Low
+C0783,High Net Worth,Singapore,Checking Account,Broker-Dealer,2,3,1,2,2.1,Medium
+C0784,Shell Company,Panama,Payroll Services,Branch Onboarding,1,2,3,3,2.2,Medium
+C0785,Small Business,UAE,Cash Deposits,Online,3,3,3,1,2.8,High
+C0786,NGO,India,Securities Trading,Branch Onboarding,2,3,1,2,2.1,Medium
+C0787,Corporate,Panama,Crypto Exchange,Mobile App,1,2,3,3,2.2,Medium
+C0788,NGO,UK,Wire Transfers,Mobile App,1,1,2,2,1.4,Low
+C0789,Corporate,UK,Trade Finance,Branch Onboarding,1,3,3,1,2.4,Medium
+C0790,Shell Company,Nigeria,Private Banking,Mobile App,1,1,1,1,1,Low
+C0791,PEP,UK,Wire Transfers,Mobile App,2,2,2,3,2.1,Medium
+C0792,Small Business,Afghanistan,Crypto Exchange,Branch Onboarding,1,2,1,1,1.4,Low
+C0793,High Net Worth,Germany,Payroll Services,Broker-Dealer,2,2,2,3,2.1,Medium
+C0794,Shell Company,Afghanistan,Trade Finance,Online,2,1,2,2,1.6,Medium
+C0795,PEP,USA,Trade Finance,Broker-Dealer,3,3,2,1,2.5,Medium
+C0796,Corporate,Germany,Cash Deposits,Mobile App,2,2,2,2,2,Medium
+C0797,Retail Individual,UK,Cash Deposits,Broker-Dealer,3,1,2,2,1.8,Medium
+C0798,NGO,UK,Checking Account,Broker-Dealer,1,3,3,1,2.4,Medium
+C0799,Corporate,Singapore,Wire Transfers,Branch Onboarding,1,3,3,1,2.4,Medium
+C0800,High Net Worth,Nigeria,Securities Trading,Online,3,3,1,3,2.4,Medium
+C0801,Small Business,Nigeria,Wire Transfers,Mobile App,1,2,3,1,2,Medium
+C0802,Small Business,Nigeria,Private Banking,Mobile App,1,3,3,2,2.5,Medium
+C0803,Retail Individual,USA,Crypto Exchange,Broker-Dealer,1,1,1,3,1.2,Low
+C0804,Corporate,India,Crypto Exchange,Relationship Manager,1,2,2,2,1.8,Medium
+C0805,Small Business,Nigeria,Cash Deposits,Branch Onboarding,1,3,2,2,2.2,Medium
+C0806,Corporate,Afghanistan,Cash Deposits,Broker-Dealer,1,1,1,1,1,Low
+C0807,Corporate,USA,Crypto Exchange,Broker-Dealer,2,1,1,1,1.2,Low
+C0808,Small Business,Panama,Prepaid Cards,Relationship Manager,1,3,2,3,2.3,Medium
+C0809,NGO,Nigeria,Cash Deposits,Online,3,2,3,1,2.4,Medium
+C0810,Shell Company,Panama,Cash Deposits,Mobile App,2,2,2,1,1.9,Medium
+C0811,Retail Individual,Panama,Securities Trading,Branch Onboarding,3,3,1,2,2.3,Medium
+C0812,Shell Company,UK,Trade Finance,Relationship Manager,3,3,1,3,2.4,Medium
+C0813,NGO,India,Crypto Exchange,Branch Onboarding,3,2,2,2,2.2,Medium
+C0814,PEP,UAE,Wire Transfers,Broker-Dealer,2,3,2,2,2.4,Medium
+C0815,High Net Worth,Nigeria,Cash Deposits,Online,3,3,1,2,2.3,Medium
+C0816,Retail Individual,UAE,Private Banking,Mobile App,2,2,2,3,2.1,Medium
+C0817,High Net Worth,Panama,Securities Trading,Relationship Manager,3,3,1,2,2.3,Medium
+C0818,Small Business,UAE,Cash Deposits,Branch Onboarding,2,2,1,1,1.6,Medium
+C0819,Shell Company,UAE,Payroll Services,Branch Onboarding,1,1,2,2,1.4,Low
+C0820,Small Business,UK,Trade Finance,Relationship Manager,2,1,1,1,1.2,Low
+C0821,NGO,UK,Remittances,Relationship Manager,3,2,2,1,2.1,Medium
+C0822,Small Business,India,Crypto Exchange,Branch Onboarding,2,2,1,1,1.6,Medium
+C0823,NGO,India,Remittances,Online,3,2,1,1,1.8,Medium
+C0824,PEP,USA,Private Banking,Online,3,3,1,1,2.2,Medium
+C0825,Corporate,Germany,Securities Trading,Branch Onboarding,1,1,3,2,1.7,Medium
+C0826,High Net Worth,USA,Wire Transfers,Mobile App,3,3,3,3,3,High
+C0827,PEP,UAE,Checking Account,Broker-Dealer,1,1,1,1,1,Low
+C0828,Retail Individual,USA,Prepaid Cards,Broker-Dealer,3,2,3,2,2.5,Medium
+C0829,Small Business,Afghanistan,Securities Trading,Branch Onboarding,3,2,1,2,1.9,Medium
+C0830,NGO,Panama,Prepaid Cards,Relationship Manager,2,1,3,3,2,Medium
+C0831,Shell Company,UK,Cash Deposits,Mobile App,2,1,1,3,1.4,Low
+C0832,NGO,Panama,Prepaid Cards,Online,3,3,2,3,2.7,High
+C0833,Small Business,Germany,Securities Trading,Relationship Manager,3,1,3,1,2,Medium
+C0834,Retail Individual,UAE,Wire Transfers,Online,2,2,2,3,2.1,Medium
+C0835,High Net Worth,Germany,Crypto Exchange,Broker-Dealer,1,1,3,3,1.8,Medium
+C0836,Small Business,UK,Cash Deposits,Online,3,2,2,1,2.1,Medium
+C0837,NGO,Panama,Wire Transfers,Mobile App,1,3,2,2,2.2,Medium
+C0838,Small Business,India,Securities Trading,Mobile App,2,1,2,1,1.5,Low
+C0839,Shell Company,Singapore,Prepaid Cards,Mobile App,2,3,2,2,2.4,Medium
+C0840,PEP,UK,Cash Deposits,Broker-Dealer,3,3,3,3,3,High
+C0841,Small Business,USA,Wire Transfers,Relationship Manager,3,2,3,1,2.4,Medium
+C0842,Small Business,Germany,Wire Transfers,Branch Onboarding,2,1,1,1,1.2,Low
+C0843,Corporate,Singapore,Payroll Services,Mobile App,3,1,2,3,1.9,Medium
+C0844,Small Business,Panama,Remittances,Online,2,2,2,3,2.1,Medium
+C0845,Small Business,Nigeria,Private Banking,Online,3,2,2,3,2.3,Medium
+C0846,Corporate,Afghanistan,Wire Transfers,Mobile App,1,3,2,2,2.2,Medium
+C0847,PEP,Panama,Remittances,Relationship Manager,1,2,3,3,2.2,Medium
+C0848,NGO,Afghanistan,Payroll Services,Broker-Dealer,2,2,1,2,1.7,Medium
+C0849,Small Business,India,Checking Account,Branch Onboarding,3,2,1,3,2,Medium
+C0850,High Net Worth,Singapore,Securities Trading,Mobile App,2,2,1,3,1.8,Medium
+C0851,PEP,Nigeria,Checking Account,Branch Onboarding,1,1,1,1,1,Low
+C0852,Corporate,UK,Securities Trading,Branch Onboarding,2,2,2,3,2.1,Medium
+C0853,NGO,Afghanistan,Private Banking,Relationship Manager,2,2,1,2,1.7,Medium
+C0854,Shell Company,Panama,Securities Trading,Branch Onboarding,3,3,2,2,2.6,High
+C0855,Retail Individual,USA,Prepaid Cards,Relationship Manager,2,2,3,1,2.2,Medium
+C0856,Corporate,Germany,Cash Deposits,Mobile App,2,1,1,3,1.4,Low
+C0857,Small Business,Germany,Checking Account,Relationship Manager,1,3,3,1,2.4,Medium
+C0858,Corporate,Nigeria,Payroll Services,Mobile App,3,1,1,3,1.6,Medium
+C0859,Small Business,UAE,Cash Deposits,Relationship Manager,2,2,1,1,1.6,Medium
+C0860,Shell Company,USA,Cash Deposits,Mobile App,3,2,1,2,1.9,Medium
+C0861,NGO,India,Wire Transfers,Broker-Dealer,1,3,1,1,1.8,Medium
+C0862,Retail Individual,USA,Securities Trading,Online,3,1,3,1,2,Medium
+C0863,High Net Worth,Germany,Remittances,Broker-Dealer,3,3,2,2,2.6,High
+C0864,Shell Company,India,Securities Trading,Mobile App,2,2,2,2,2,Medium
+C0865,Small Business,Nigeria,Cash Deposits,Relationship Manager,1,2,3,2,2.1,Medium
+C0866,Retail Individual,Panama,Private Banking,Relationship Manager,3,3,1,1,2.2,Medium
+C0867,High Net Worth,India,Prepaid Cards,Online,2,2,3,1,2.2,Medium
+C0868,PEP,Singapore,Remittances,Branch Onboarding,3,3,3,1,2.8,High
+C0869,NGO,Germany,Cash Deposits,Relationship Manager,1,1,2,1,1.3,Low
+C0870,NGO,Afghanistan,Checking Account,Branch Onboarding,3,1,1,2,1.5,Low
+C0871,Retail Individual,Nigeria,Prepaid Cards,Mobile App,2,3,1,2,2.1,Medium
+C0872,Shell Company,Nigeria,Private Banking,Broker-Dealer,3,2,2,3,2.3,Medium
+C0873,PEP,UK,Checking Account,Online,3,1,3,1,2,Medium
+C0874,Retail Individual,Panama,Cash Deposits,Relationship Manager,1,3,2,3,2.3,Medium
+C0875,Shell Company,UAE,Checking Account,Relationship Manager,1,2,2,3,1.9,Medium
+C0876,Shell Company,UAE,Crypto Exchange,Relationship Manager,3,1,1,1,1.4,Low
+C0877,Corporate,Germany,Wire Transfers,Branch Onboarding,1,2,1,3,1.6,Medium
+C0878,Shell Company,UK,Private Banking,Branch Onboarding,1,2,1,2,1.5,Low
+C0879,NGO,Panama,Cash Deposits,Branch Onboarding,1,3,3,1,2.4,Medium
+C0880,Retail Individual,Panama,Securities Trading,Online,2,3,2,3,2.5,Medium
+C0881,Retail Individual,Panama,Securities Trading,Online,1,2,3,3,2.2,Medium
+C0882,PEP,India,Securities Trading,Broker-Dealer,3,2,1,2,1.9,Medium
+C0883,NGO,USA,Wire Transfers,Mobile App,3,2,2,3,2.3,Medium
+C0884,Corporate,USA,Remittances,Mobile App,2,2,2,1,1.9,Medium
+C0885,NGO,UAE,Trade Finance,Branch Onboarding,2,2,2,2,2,Medium
+C0886,PEP,Nigeria,Cash Deposits,Relationship Manager,3,1,3,2,2.1,Medium
+C0887,PEP,USA,Checking Account,Mobile App,1,3,3,1,2.4,Medium
+C0888,Retail Individual,USA,Payroll Services,Online,3,1,1,2,1.5,Low
+C0889,Corporate,UK,Remittances,Relationship Manager,3,1,3,2,2.1,Medium
+C0890,Small Business,Afghanistan,Private Banking,Mobile App,1,3,3,1,2.4,Medium
+C0891,NGO,Panama,Crypto Exchange,Relationship Manager,1,3,3,3,2.6,High
+C0892,Shell Company,USA,Trade Finance,Broker-Dealer,1,1,3,2,1.7,Medium
+C0893,Corporate,Afghanistan,Prepaid Cards,Broker-Dealer,3,3,2,1,2.5,Medium
+C0894,PEP,Nigeria,Prepaid Cards,Online,2,1,1,2,1.3,Low
+C0895,Retail Individual,India,Crypto Exchange,Broker-Dealer,3,3,3,2,2.9,High
+C0896,NGO,UAE,Prepaid Cards,Relationship Manager,1,1,1,1,1,Low
+C0897,High Net Worth,UK,Cash Deposits,Relationship Manager,3,1,2,3,1.9,Medium
+C0898,Small Business,UK,Cash Deposits,Mobile App,2,3,1,2,2.1,Medium
+C0899,PEP,Panama,Trade Finance,Mobile App,3,2,2,1,2.1,Medium
+C0900,Small Business,Afghanistan,Payroll Services,Mobile App,2,3,3,1,2.6,High
+C0901,NGO,Singapore,Cash Deposits,Mobile App,2,3,1,1,2,Medium
+C0902,NGO,Afghanistan,Crypto Exchange,Online,2,1,2,3,1.7,Medium
+C0903,High Net Worth,India,Wire Transfers,Broker-Dealer,1,2,3,1,2,Medium
+C0904,PEP,Nigeria,Wire Transfers,Online,3,1,1,2,1.5,Low
+C0905,PEP,USA,Cash Deposits,Online,1,1,3,3,1.8,Medium
+C0906,Shell Company,UK,Checking Account,Relationship Manager,2,2,1,1,1.6,Medium
+C0907,Corporate,UK,Trade Finance,Broker-Dealer,2,1,3,3,2,Medium
+C0908,Corporate,India,Wire Transfers,Broker-Dealer,3,1,1,3,1.6,Medium
+C0909,High Net Worth,Panama,Checking Account,Branch Onboarding,3,3,3,3,3,High
+C0910,Small Business,India,Wire Transfers,Broker-Dealer,3,3,1,3,2.4,Medium
+C0911,High Net Worth,UK,Private Banking,Mobile App,3,1,3,2,2.1,Medium
+C0912,High Net Worth,UAE,Cash Deposits,Mobile App,3,3,3,3,3,High
+C0913,Small Business,UAE,Payroll Services,Online,3,1,3,2,2.1,Medium
+C0914,High Net Worth,India,Cash Deposits,Broker-Dealer,3,3,1,2,2.3,Medium
+C0915,Shell Company,Germany,Cash Deposits,Online,2,2,1,1,1.6,Medium
+C0916,Small Business,Nigeria,Trade Finance,Broker-Dealer,3,1,2,3,1.9,Medium
+C0917,Shell Company,UAE,Payroll Services,Online,2,2,3,3,2.4,Medium
+C0918,Shell Company,Singapore,Private Banking,Branch Onboarding,3,1,3,1,2,Medium
+C0919,Shell Company,India,Securities Trading,Mobile App,3,3,1,2,2.3,Medium
+C0920,Corporate,India,Payroll Services,Branch Onboarding,1,2,3,2,2.1,Medium
+C0921,Shell Company,Panama,Private Banking,Online,2,2,3,1,2.2,Medium
+C0922,Small Business,UAE,Cash Deposits,Mobile App,2,1,2,2,1.6,Medium
+C0923,NGO,Afghanistan,Remittances,Mobile App,2,3,3,3,2.8,High
+C0924,Shell Company,India,Payroll Services,Mobile App,3,1,3,1,2,Medium
+C0925,Small Business,Panama,Remittances,Mobile App,1,2,2,2,1.8,Medium
+C0926,Corporate,Germany,Crypto Exchange,Broker-Dealer,3,2,3,1,2.4,Medium
+C0927,Corporate,UK,Checking Account,Broker-Dealer,3,1,2,2,1.8,Medium
+C0928,Shell Company,UK,Wire Transfers,Branch Onboarding,1,2,2,3,1.9,Medium
+C0929,Small Business,UK,Prepaid Cards,Relationship Manager,2,2,1,2,1.7,Medium
+C0930,Small Business,Panama,Remittances,Relationship Manager,2,3,3,1,2.6,High
+C0931,Corporate,Afghanistan,Payroll Services,Mobile App,3,2,2,3,2.3,Medium
+C0932,Retail Individual,Germany,Cash Deposits,Broker-Dealer,3,3,2,1,2.5,Medium
+C0933,PEP,UAE,Checking Account,Broker-Dealer,2,2,3,3,2.4,Medium
+C0934,Corporate,Afghanistan,Trade Finance,Branch Onboarding,2,3,3,3,2.8,High
+C0935,PEP,UK,Prepaid Cards,Broker-Dealer,1,3,1,1,1.8,Medium
+C0936,PEP,Panama,Prepaid Cards,Broker-Dealer,2,2,1,2,1.7,Medium
+C0937,Corporate,USA,Checking Account,Relationship Manager,1,2,3,2,2.1,Medium
+C0938,Small Business,USA,Checking Account,Mobile App,3,2,1,2,1.9,Medium
+C0939,High Net Worth,Afghanistan,Wire Transfers,Online,2,2,2,3,2.1,Medium
+C0940,PEP,UK,Payroll Services,Mobile App,1,1,3,3,1.8,Medium
+C0941,Retail Individual,Singapore,Wire Transfers,Branch Onboarding,3,3,1,1,2.2,Medium
+C0942,NGO,Singapore,Cash Deposits,Branch Onboarding,2,1,2,2,1.6,Medium
+C0943,NGO,USA,Payroll Services,Branch Onboarding,3,3,2,2,2.6,High
+C0944,Small Business,India,Securities Trading,Online,1,3,1,2,1.9,Medium
+C0945,High Net Worth,UK,Wire Transfers,Broker-Dealer,3,2,3,2,2.5,Medium
+C0946,PEP,Afghanistan,Payroll Services,Relationship Manager,1,1,1,1,1,Low
+C0947,Small Business,USA,Private Banking,Branch Onboarding,2,1,1,1,1.2,Low
+C0948,Retail Individual,Singapore,Securities Trading,Mobile App,2,3,1,1,2,Medium
+C0949,PEP,Germany,Payroll Services,Online,3,1,1,3,1.6,Medium
+C0950,Small Business,Nigeria,Prepaid Cards,Mobile App,3,2,2,2,2.2,Medium
+C0951,Small Business,Panama,Prepaid Cards,Branch Onboarding,1,3,3,2,2.5,Medium
+C0952,Retail Individual,UK,Prepaid Cards,Broker-Dealer,3,2,3,3,2.6,High
+C0953,Shell Company,Germany,Remittances,Branch Onboarding,1,2,3,2,2.1,Medium
+C0954,Corporate,India,Remittances,Relationship Manager,2,3,2,1,2.3,Medium
+C0955,Small Business,Nigeria,Remittances,Online,2,1,3,1,1.8,Medium
+C0956,Small Business,Afghanistan,Prepaid Cards,Online,3,2,1,2,1.9,Medium
+C0957,Shell Company,Singapore,Securities Trading,Broker-Dealer,1,1,3,2,1.7,Medium
+C0958,Retail Individual,Nigeria,Crypto Exchange,Branch Onboarding,3,3,1,2,2.3,Medium
+C0959,High Net Worth,India,Securities Trading,Branch Onboarding,2,1,2,2,1.6,Medium
+C0960,High Net Worth,Singapore,Wire Transfers,Broker-Dealer,2,2,1,1,1.6,Medium
+C0961,High Net Worth,Panama,Payroll Services,Relationship Manager,3,1,3,1,2,Medium
+C0962,NGO,UAE,Checking Account,Broker-Dealer,1,3,2,2,2.2,Medium
+C0963,High Net Worth,Panama,Payroll Services,Relationship Manager,1,1,3,3,1.8,Medium
+C0964,Retail Individual,USA,Private Banking,Relationship Manager,3,1,1,2,1.5,Low
+C0965,High Net Worth,Singapore,Payroll Services,Relationship Manager,2,2,2,2,2,Medium
+C0966,Small Business,Singapore,Remittances,Broker-Dealer,2,3,1,2,2.1,Medium
+C0967,NGO,Afghanistan,Payroll Services,Mobile App,3,2,2,1,2.1,Medium
+C0968,PEP,India,Wire Transfers,Mobile App,3,1,2,1,1.7,Medium
+C0969,Small Business,UAE,Private Banking,Broker-Dealer,3,2,3,2,2.5,Medium
+C0970,Retail Individual,Germany,Securities Trading,Relationship Manager,3,3,2,1,2.5,Medium
+C0971,High Net Worth,Afghanistan,Checking Account,Branch Onboarding,3,1,1,3,1.6,Medium
+C0972,PEP,Panama,Securities Trading,Online,2,2,2,3,2.1,Medium
+C0973,Small Business,USA,Wire Transfers,Online,2,3,1,2,2.1,Medium
+C0974,Corporate,UAE,Securities Trading,Mobile App,3,1,3,3,2.2,Medium
+C0975,Small Business,Germany,Cash Deposits,Online,2,2,1,2,1.7,Medium
+C0976,NGO,Afghanistan,Remittances,Online,1,3,2,2,2.2,Medium
+C0977,Corporate,India,Checking Account,Broker-Dealer,3,1,3,1,2,Medium
+C0978,Retail Individual,Afghanistan,Cash Deposits,Online,1,3,2,1,2.1,Medium
+C0979,PEP,USA,Payroll Services,Online,1,2,1,3,1.6,Medium
+C0980,PEP,Afghanistan,Wire Transfers,Branch Onboarding,3,1,2,3,1.9,Medium
+C0981,Shell Company,UAE,Private Banking,Broker-Dealer,3,3,2,3,2.7,High
+C0982,Shell Company,Nigeria,Payroll Services,Branch Onboarding,1,1,1,1,1,Low
+C0983,PEP,USA,Cash Deposits,Broker-Dealer,1,2,1,3,1.6,Medium
+C0984,NGO,UAE,Securities Trading,Online,3,2,1,1,1.8,Medium
+C0985,NGO,Afghanistan,Securities Trading,Mobile App,1,2,2,2,1.8,Medium
+C0986,PEP,USA,Private Banking,Broker-Dealer,3,3,2,1,2.5,Medium
+C0987,Shell Company,Afghanistan,Remittances,Relationship Manager,3,3,3,3,3,High
+C0988,High Net Worth,Afghanistan,Payroll Services,Broker-Dealer,1,2,1,3,1.6,Medium
+C0989,Shell Company,UAE,Trade Finance,Mobile App,3,2,3,2,2.5,Medium
+C0990,Small Business,UAE,Crypto Exchange,Broker-Dealer,1,2,1,3,1.6,Medium
+C0991,NGO,Germany,Trade Finance,Broker-Dealer,1,3,3,2,2.5,Medium
+C0992,Corporate,Singapore,Remittances,Relationship Manager,3,2,2,2,2.2,Medium
+C0993,Corporate,Panama,Trade Finance,Branch Onboarding,2,2,1,1,1.6,Medium
+C0994,High Net Worth,USA,Payroll Services,Branch Onboarding,3,1,1,1,1.4,Low
+C0995,Small Business,UAE,Wire Transfers,Broker-Dealer,2,2,3,2,2.3,Medium
+C0996,NGO,Germany,Prepaid Cards,Relationship Manager,2,3,2,3,2.5,Medium
+C0997,PEP,Nigeria,Trade Finance,Relationship Manager,2,1,1,1,1.2,Low
+C0998,Retail Individual,Nigeria,Securities Trading,Relationship Manager,2,3,1,2,2.1,Medium
+C0999,Small Business,Singapore,Wire Transfers,Online,3,2,2,1,2.1,Medium
+C1000,High Net Worth,USA,Payroll Services,Online,3,2,2,1,2.1,Medium
